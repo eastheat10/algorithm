@@ -16,24 +16,45 @@ public class A1157 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		System.out.print("문장을 입력하세요: ");
-		String s = sc.next().toUpperCase();
+		System.out.print("단어를 입력하세요: ");
+		String s = sc.next().trim().toUpperCase();
 
 		int[] n = new int[26];
+		int count = 0;
+		int max = 0;
+		char tmp = ' ';
 
 		for(int i = 0; i < 26; i++) {
 
 			int asc = i + 65;
 			for(int j = 0; j < s.length(); j++) {
-				if((char)asc == s.charAt(j)) {
-						n[i] = j;
-						break;
-					}
-				else
-					n[i] = -1;
+				if((char)asc == s.charAt(j))
+					n[i]++;
 			}
 
 		}
+
+		max = n[0];
+
+		for(int i = 1; i < 26; i++) {
+			if(max < n[i]) {
+				max = n[i];
+				tmp = (char)(i + 65);
+			}
+		}
+
+		if(max == n[0])
+			tmp = (char)65;
+
+		for(int m : n) {
+			if(max == m)
+				count++;
+		}
+
+		if(count > 1)
+			System.out.println("?");
+		else
+			System.out.println(tmp);
 
 	}
 }
