@@ -47,4 +47,8 @@
 	* [[201225] 2869번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2869.java) : 달팽이는 올라가고 싶다
 	* [[201228] 10250번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10250.java) : ACM 호텔
 	* [[201227] 2775번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 부녀회장이 될테야
-- - - -
+---
+
+9. **수학 2** (~ing)
+   * [[210102] 1978번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1978.java) : 소수 찾기
+
