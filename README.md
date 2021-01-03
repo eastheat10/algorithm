@@ -1,6 +1,7 @@
 # Algorithm
 ### 백준 알고리즘 단계별로 풀기
-* Java
+* **Java**
+
 - - - -
 1. **입출력과 사칙연산** (finish)
 	* [10430번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage1/A10430.java) : 나머지
@@ -26,10 +27,14 @@
 - - - -
 5. **1차원 배열** (finish)
 
- 	* [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
- 	* [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
- 	* [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
- 	* [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
+   * [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
+
+   * [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
+
+   * [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
+
+   * [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
+
 - - - -
 6. **함수** (~ing)
 	* [15596번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/A15596.java) : 정수 N개의 합
@@ -51,4 +56,7 @@
 
 9. **수학 2** (~ing)
    * [[210102] 1978번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1978.java) : 소수 찾기
+   * [[210103] 2581번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A2581.java) : 소수
+   * [[210103] 11653번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A11653.java) : 소인수분해
+   * [[210103] 1929번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1929.java) : 소수 구하기
 
