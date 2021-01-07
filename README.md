@@ -46,8 +46,10 @@
 	* [1157번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A1157.java) : 단어공부
 	* [2908번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A2908.java) : 상수
 	* [5622번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A5622.java) : 다이얼
+	*  <!--[2941번] : 크로아티아 알파벳-->
+	* [1316번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A1316.java) : 그룹 단어 체커
 - - - -
-8.  기본 수학 1** (~ing)
+8.  **기본 수학 1** (~ing)
 	* [[201225] 1712번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A1712.java) : 손익분기점
 	* [[201225] 2869번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2869.java) : 달팽이는 올라가고 싶다
 	* [[201228] 10250번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10250.java) : ACM 호텔
@@ -62,4 +64,10 @@
    * [[210106] 1085번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/1085.java) : 직사각형에서 탈출
    * [[210106] 3009번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/3009.java) : 네번째 점
    * [[210106] 4153번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/4153.java) : 직각삼각형
+
+---
+
+10. **재귀**(~ing)
+    * [[210107] 10872번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/10872.java) : 팩토리얼
+    * [[210107] 10870번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/10870.java) : 피보나치 수 5
 
