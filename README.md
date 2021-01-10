@@ -8,7 +8,6 @@
 
    * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/etc/A10828.java): 스택
 
-      
 
 - - - -
 1. **입출력과 사칙연산** (finish)
@@ -59,12 +58,14 @@
 - - - -
 8.  **기본 수학 1** (~ing)
 	* [[201225] 1712번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A1712.java) : 손익분기점
-	* <!--[[2101__] 1193번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/1193.java) : 분수 찾기 -->
+	* <!--[[2001__] 2292번]: 벌집-->
+	* [[210111] 1193번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/1193.java) : 분수 찾기
 	* [[201225] 2869번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2869.java) : 달팽이는 올라가고 싶다
 	* [[201228] 10250번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10250.java) : ACM 호텔
 	* [[201227] 2775번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 부녀회장이 될테야
 	* [[210108] 2839번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 설탕배달
 	* [[210108] 10757번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10757.java) : 큰 수 A + B 
+	* <!--[[2001__] 1011번]: Fly me to the alpha centuri-->
 ---
 
 9. **기본 수학 2**
@@ -72,7 +73,7 @@
    * [[210103] 2581번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A2581.java) : 소수
    * [[210103] 11653번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A11653.java) : 소인수분해
    * [[210103] 1929번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1929.java) : 소수 구하기
-   * [[210109] 4948](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A4948.java): 베르트랑 공준0
+   * [[210109] 4948](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A4948.java): 베르트랑 공준
    * [[210110] 9020](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A9020.java): 골드바흐의 추측
    * [[210106] 1085번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/1085.java) : 직사각형에서 탈출
    * [[210106] 3009번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/3009.java) : 네번째 점
