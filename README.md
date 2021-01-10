@@ -47,7 +47,7 @@
 6. **함수** (~ing)
 	* [15596번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/A15596.java) : 정수 N개의 합
 - - - -
-7. **문자열** (~ing)
+7. **문자열**
 	* [11720번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A11720.java) : 숫자의 합
 	* [10809번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A10809.java) : 알파벳 찾기
 	* [2675번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A2675.java) : 문자열 반복 
@@ -59,6 +59,7 @@
 - - - -
 8.  **기본 수학 1** (~ing)
 	* [[201225] 1712번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A1712.java) : 손익분기점
+	* <!--[[2101__] 1193번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/1193.java) : 분수 찾기 -->
 	* [[201225] 2869번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2869.java) : 달팽이는 올라가고 싶다
 	* [[201228] 10250번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10250.java) : ACM 호텔
 	* [[201227] 2775번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 부녀회장이 될테야
@@ -66,15 +67,17 @@
 	* [[210108] 10757번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10757.java) : 큰 수 A + B 
 ---
 
-9. **기본 수학 2** (~ing)
+9. **기본 수학 2**
    * [[210102] 1978번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1978.java) : 소수 찾기
    * [[210103] 2581번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A2581.java) : 소수
    * [[210103] 11653번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A11653.java) : 소인수분해
    * [[210103] 1929번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1929.java) : 소수 구하기
-   * [[210109] 4948](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A4948.java): 베르트랑 공준
+   * [[210109] 4948](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A4948.java): 베르트랑 공준0
+   * [[210110] 9020](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A9020.java): 골드바흐의 추측
    * [[210106] 1085번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/1085.java) : 직사각형에서 탈출
    * [[210106] 3009번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/3009.java) : 네번째 점
    * [[210106] 4153번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/4153.java) : 직각삼각형
+   * [[210110] 3053번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/3053.java) : 택시 기하학
    * [[210109] 1002](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1002.java): 터렛
 
 ---
