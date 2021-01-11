@@ -2,12 +2,6 @@
 ### 백준 알고리즘 단계별로 풀기
 * **Java**
 
----
-
-0. 기타
-
-   * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/etc/A10828.java): 스택
-
 
 - - - -
 1. **입출력과 사칙연산** (finish)
@@ -33,20 +27,20 @@
 	* [1110번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage4/A1110.java) : 더하기 사이클
 - - - -
 5. **1차원 배열** (finish)
-
-   * [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
-
-   * [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
-
-   * [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
-
-   * [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
+* [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
+   
+* [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
+   
+* [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
+   
+* [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
 
 - - - -
 6. **함수** (~ing)
 	* [15596번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/A15596.java) : 정수 N개의 합
+	* [[210112] 4673번 ](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/4673.java): 셀프넘버
 - - - -
-7. **문자열**
+7. **문자열** (finish)
 	* [11720번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A11720.java) : 숫자의 합
 	* [10809번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A10809.java) : 알파벳 찾기
 	* [2675번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A2675.java) : 문자열 반복 
@@ -56,19 +50,19 @@
 	*  [[210107] 2941번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A2941.java) : 크로아티아 알파벳
 	* [[210107] 1316번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A1316.java) : 그룹 단어 체커
 - - - -
-8.  **기본 수학 1** (~ing)
+8.  **기본 수학 1** (finish)
 	* [[201225] 1712번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A1712.java) : 손익분기점
-	* <!--[[2001__] 2292번]: 벌집-->
+	* [[200111] 2292번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/2292.java): 벌집
 	* [[210111] 1193번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/1193.java) : 분수 찾기
 	* [[201225] 2869번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2869.java) : 달팽이는 올라가고 싶다
 	* [[201228] 10250번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10250.java) : ACM 호텔
 	* [[201227] 2775번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 부녀회장이 될테야
 	* [[210108] 2839번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 설탕배달
 	* [[210108] 10757번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10757.java) : 큰 수 A + B 
-	* <!--[[2001__] 1011번]: Fly me to the alpha centuri-->
+	* [[200111] 1011번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/1011.java): Fly me to the alpha centuri
 ---
 
-9. **기본 수학 2**
+9. **기본 수학 2 **(finish)
    * [[210102] 1978번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1978.java) : 소수 찾기
    * [[210103] 2581번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A2581.java) : 소수
    * [[210103] 11653번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A11653.java) : 소인수분해
@@ -86,4 +80,9 @@
 10. **재귀**(~ing)
     * [[210107] 10872번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/10872.java) : 팩토리얼
     * [[210107] 10870번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/10870.java) : 피보나치 수 5
+
+----
+
+17. **스택** (~ing)
+    * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/etc/A10828.java): 스택
 
