@@ -1,4 +1,4 @@
-package algo.stage10;
+package algo.stage9;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

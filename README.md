@@ -28,17 +28,18 @@
 - - - -
 5. **1차원 배열** (finish)
 * [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
-   
+  
 * [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
-   
+  
 * [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
-   
+  
 * [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
 
 - - - -
-6. **함수** (~ing)
+6. **함수** (finish)
 	* [15596번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/A15596.java) : 정수 N개의 합
-	* [[210112] 4673번 ](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/4673.java): 셀프넘버
+	* [[210112] 4673번 ](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/A4673.java): 셀프넘버
+	* [[210112] 1065번 ](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/ A4673.java): 한수
 - - - -
 7. **문자열** (finish)
 	* [11720번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A11720.java) : 숫자의 합
@@ -52,14 +53,14 @@
 - - - -
 8.  **기본 수학 1** (finish)
 	* [[201225] 1712번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A1712.java) : 손익분기점
-	* [[200111] 2292번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/2292.java): 벌집
-	* [[210111] 1193번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/1193.java) : 분수 찾기
+	* [[200111] 2292번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2292.java): 벌집
+	* [[210111] 1193번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A1193.java) : 분수 찾기
 	* [[201225] 2869번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2869.java) : 달팽이는 올라가고 싶다
 	* [[201228] 10250번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10250.java) : ACM 호텔
 	* [[201227] 2775번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 부녀회장이 될테야
 	* [[210108] 2839번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 설탕배달
 	* [[210108] 10757번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10757.java) : 큰 수 A + B 
-	* [[200111] 1011번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/1011.java): Fly me to the alpha centuri
+	* [[200111] 1011번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A1011.java): Fly me to the alpha centuri
 ---
 
 9. **기본 수학 2 **(finish)
@@ -69,19 +70,26 @@
    * [[210103] 1929번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1929.java) : 소수 구하기
    * [[210109] 4948](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A4948.java): 베르트랑 공준
    * [[210110] 9020](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A9020.java): 골드바흐의 추측
-   * [[210106] 1085번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/1085.java) : 직사각형에서 탈출
-   * [[210106] 3009번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/3009.java) : 네번째 점
-   * [[210106] 4153번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/4153.java) : 직각삼각형
-   * [[210110] 3053번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/3053.java) : 택시 기하학
+   * [[210106] 1085번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1085.java) : 직사각형에서 탈출
+   * [[210106] 3009번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A3009.java) : 네번째 점
+   * [[210106] 4153번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A4153.java) : 직각삼각형
+   * [[210110] 3053번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A3053.java) : 택시 기하학
    * [[210109] 1002](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1002.java): 터렛
 
 ---
 
 10. **재귀**(~ing)
-    * [[210107] 10872번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/10872.java) : 팩토리얼
-    * [[210107] 10870번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/10870.java) : 피보나치 수 5
+    * [[210107] 10872번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/A10872.java) : 팩토리얼
+    * [[210107] 10870번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/A10870.java) : 피보나치 수 5
+    * [[210122] 11729번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/A11729.java) : 하노이 탑
 
-----
+---
+
+11. **브루트 포스**(~ing)
+    * [[210122] 2798번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage11/A2798.java) : 블랙잭
+    * [[210122] 2231번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage11/A2231.java) : 분해합
+
+---
 
 17. **스택** (~ing)
     * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/etc/A10828.java): 스택
