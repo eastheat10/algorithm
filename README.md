@@ -88,6 +88,7 @@
 11. **브루트 포스**(~ing)
     * [[210122] 2798번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage11/A2798.java) : 블랙잭
     * [[210122] 2231번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage11/A2231.java) : 분해합
+    * [[210124] 7568번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage11/A7568.java) : 덩치
 
 ---
 
