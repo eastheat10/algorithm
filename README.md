@@ -27,13 +27,14 @@
 	* [1110번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage4/A1110.java) : 더하기 사이클
 - - - -
 5. **1차원 배열** (finish)
-* [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
-  
-* [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
-  
-* [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
-  
-* [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
+
+   * [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
+
+   * [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
+
+   * [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
+
+   * [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
 
 - - - -
 6. **함수** (finish)
@@ -89,8 +90,23 @@
     * [[210122] 2798번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage11/A2798.java) : 블랙잭
     * [[210122] 2231번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage11/A2231.java) : 분해합
     * [[210124] 7568번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage11/A7568.java) : 덩치
+    * [[210124] 1436번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage11/A1436.java) : 영화감독 슘
 
 ---
+
+12. **정렬**(~ing)
+
+    * [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2750.java) : 수 정렬하기 1 (삽입정렬, 버블정렬)
+
+    * [[210124] 2751번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2751.java) : 수 정렬하기 2 (메소드 활용)
+
+    * [[210125] 10989번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10989.java) : 수 정렬하기 3 (계수정렬)
+
+      
+
+---
+
+
 
 17. **스택** (~ing)
     * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/etc/A10828.java): 스택
