@@ -102,6 +102,14 @@
 
     * [[210125] 10989번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10989.java) : 수 정렬하기 3 (계수정렬)
 
+    * [[] 2108번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2108.java) : 통계학
+
+    * [[210125] 1427번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1427.java) : 소트 인사이드
+
+    * [[210127] 11650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11650.java) : 좌표 정렬하기
+    
+    * [[210127] 11651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11651.java) : 좌표 정렬하기2
+    
       
 
 ---

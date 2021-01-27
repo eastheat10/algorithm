@@ -58,7 +58,6 @@ public class A2108 {
 		// 범위
 		range = max - min;
 
-
 		// 최빈값
 		int[] mode1 = new int[8001];
 		int modeMax = 0;
