@@ -114,8 +114,15 @@
 
 ---
 
-
-
 17. **스택** (~ing)
-    * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/etc/A10828.java): 스택
 
+    * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10828.java): 스택
+
+    * [[210201] 10773번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10773.java): 제로	
+
+
+
+---
+
+18. **큐, 덱**(~ing)
+    * [[210216] 18258번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A18258.java): 큐2
