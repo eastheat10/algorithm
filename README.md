@@ -126,3 +126,5 @@
 
 18. **큐, 덱**(~ing)
     * [[210216] 18258번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A18258.java): 큐2
+    * [[210217] 2164번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A18258.java): 카드2
+    * [[210217] 118866번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A118866.java): 요세푸스 문제0
