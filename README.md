@@ -109,10 +109,20 @@
     * [[210127] 11650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11650.java) : 좌표 정렬하기
     
     * [[210127] 11651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11651.java) : 좌표 정렬하기2
-    
-      
 
 ---
+
+16. **정수론 및 조합론**
+    * [[210220] 5086번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A5086.java): 배수와 약수
+    * [[210220] 1037번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A1037.java): 약수
+    * [[210220] 2609번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A2609.java): 최대공약수와 최소공배수
+    * [[210220] 1934번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A1934.java): 최소공배수
+    * [[210220] 3036번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A3036.java): 링
+    * [[210220] 11050번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A11050.java): 이항계수
+
+---
+
+
 
 17. **스택** (~ing)
 
@@ -123,6 +133,8 @@
 
 
 ---
+
+
 
 18. **큐, 덱**(~ing)
     * [[210216] 18258번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A18258.java): 큐2
