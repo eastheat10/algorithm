@@ -16,24 +16,29 @@ public class A1181 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuffer sb = new StringBuffer();
 		int n = Integer.parseInt(br.readLine());
-		String[] word = new String[n];
+		String[] words = new String[n];
 
-		for(int i = 0; i < n; i++)
-			word[i] = br.readLine();
+		for (int i = 0; i < n; i++)
+			words[i] = br.readLine();
 
-
-		Arrays.sort(word, new Comparator<String>() {
+		Arrays.sort(words, new Comparator<String>() {
 			@Override
-			public int compare(String s1, String s2) {
-				return Integer.compare(s1.length(), s2.length());
+			public int compare(String o1, String o2) {
+				if (o1.length() != o2.length()) {
+					return o1.length() - o2.length();	// 글자수 오름차순
+				} else {
+					return o1.compareTo(o2);	// 사전적 오름차순
+				}
+
 			}
 		});
 
-		sb.append(word[0] + "\n");
-		for(int i = 1; i < n; i++) {
-			if(word[i - 1].equals(word[i]))
+		sb.append(words[0] + "\n");
+
+		for (int i = 1; i < n; i++) {
+			if(words[i].equals(words[i-1]))
 				continue;
-			sb.append(word[i] + "\n");
+			sb.append(words[i] + "\n");
 		}
 
 		bw.write(sb.toString());

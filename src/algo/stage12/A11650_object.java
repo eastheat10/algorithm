@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
+// 좌표 정렬 (x값 오름차순)
 public class A11650_object {
 
 	public static void main(String[] args) throws IOException, NumberFormatException {
