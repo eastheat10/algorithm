@@ -97,13 +97,20 @@
 12. **정렬**(~ing)
 
     * [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2750.java) : 수 정렬하기 1 (삽입정렬, 버블정렬)
-* [[210124] 2751번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2751.java) : 수 정렬하기 2 (메소드 활용)
+    
+    * [[210124] 2751번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2751.java) : 수 정렬하기 2 (메소드 활용)
+    
     * [[210125] 10989번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10989.java) : 수 정렬하기 3 (계수정렬)
-* [[] 2108번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2108.java) : 통계학
+    
+    * [[] 2108번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2108.java) : 통계학
+    
     * [[210125] 1427번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1427.java) : 소트 인사이드
-* [[210127] 11650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11650.java) : 좌표 정렬하기
+    
+    * [[210127] 11650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11650.java) : 좌표 정렬하기
+    
     * [[210127] 11651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11651.java) : 좌표 정렬하기2
-* [[210224] 1181번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1181.java) : 단어 정렬
+    
+    * [[210224] 1181번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1181.java) : 단어 정렬
 
 ---
 
@@ -122,8 +129,9 @@
 17. **스택** (~ing)
 
     * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10828.java): 스택
-
-    * [[210201] 10773번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10773.java): 제로	
+* [[210201] 10773번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10773.java): 제로	
+    * [[210228] 9012번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A9012.java): 괄호
+    * [[210301] 4949번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A4949.java): 균형잡힌 세상
 
 
 
