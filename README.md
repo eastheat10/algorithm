@@ -4,7 +4,7 @@
 
 
 - - - -
-1. **입출력과 사칙연산** (finish)
+1. **입출력과 사칙연산** (finish)
 	* [10430번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage1/A10430.java) : 나머지
 	* [2588번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage1/A2588.java) : 곱셈
 - - - -
@@ -40,7 +40,7 @@
 6. **함수** (finish)
 	* [15596번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/A15596.java) : 정수 N개의 합
 	* [[210112] 4673번 ](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/A4673.java): 셀프넘버
-	* [[210112] 1065번 ](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/ A4673.java): 한수
+	* [[210112] 1065번 ](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/A4673.java): 한수
 - - - -
 7. **문자열** (finish)
 	* [11720번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A11720.java) : 숫자의 합
@@ -83,6 +83,7 @@
     * [[210107] 10872번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/A10872.java) : 팩토리얼
     * [[210107] 10870번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/A10870.java) : 피보나치 수 5
     * [[210122] 11729번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/A11729.java) : 하노이 탑
+    * [[210302] 2447번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/A11729.java) : 별찍기
 
 ---
 
@@ -95,33 +96,31 @@
 ---
 
 12. **정렬**(~ing)
-
-    * [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2750.java) : 수 정렬하기 1 (삽입정렬, 버블정렬)
-    
+* [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2750.java) : 수 정렬하기 1 (삽입정렬, 버블정렬)
     * [[210124] 2751번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2751.java) : 수 정렬하기 2 (메소드 활용)
-    
     * [[210125] 10989번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10989.java) : 수 정렬하기 3 (계수정렬)
-    
     * [[] 2108번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2108.java) : 통계학
-    
     * [[210125] 1427번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1427.java) : 소트 인사이드
-    
     * [[210127] 11650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11650.java) : 좌표 정렬하기
-    
     * [[210127] 11651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11651.java) : 좌표 정렬하기2
-    
     * [[210224] 1181번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1181.java) : 단어 정렬
+    * [[210305] 10814번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10814.java) : 나이순 정렬
 
 ---
 
-15. **그리디 알고리즘**
+14. **동적 계획법1**(~ing)
+    * [[210305] 1003번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage14/A1003.java) : 피보나치 함수
+
+---
+
+15. **그리디 알고리즘**(~ing)
     * [[210304] 11047번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage15/A11047.java) : 동전 0
     * [[210304] 11399번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage15/A11399.java) : ATM
     * [[210305] 13305번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage15/A11399.java) : 주유소
 
 ---
 
-16. **정수론 및 조합론**
+16. **정수론 및 조합론**(~ing)
     * [[210220] 5086번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A5086.java): 배수와 약수
     * [[210220] 1037번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A1037.java): 약수
     * [[210220] 2609번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A2609.java): 최대공약수와 최소공배수
@@ -136,8 +135,11 @@
 17. **스택** (~ing)
 
     * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10828.java): 스택
-* [[210201] 10773번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10773.java): 제로	
+    
+    * [[210201] 10773번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10773.java): 제로	
+    
     * [[210228] 9012번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A9012.java): 괄호
+    
     * [[210301] 4949번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A4949.java): 균형잡힌 세상
 
 
