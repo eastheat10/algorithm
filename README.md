@@ -122,6 +122,7 @@
     * [[210312] 15650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage13/A15650.java) : N과 M(2)
     * [[210312] 15651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage13/A15651.java) : N과 M(3)
     * [[210312] 15652번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage13/A15652.java) : N과 M(4)
+    * [[210315] 9663번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage13/A9663.java) : N-Queen
 
 ---
 
