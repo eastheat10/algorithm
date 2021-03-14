@@ -96,15 +96,32 @@
 ---
 
 12. **정렬**(~ing)
-* [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2750.java) : 수 정렬하기 1 (삽입정렬, 버블정렬)
+
+    * [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2750.java) : 수 정렬하기 1 (삽입정렬, 버블정렬)
+
     * [[210124] 2751번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2751.java) : 수 정렬하기 2 (메소드 활용)
+
     * [[210125] 10989번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10989.java) : 수 정렬하기 3 (계수정렬)
+
     * [[] 2108번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2108.java) : 통계학
+
     * [[210125] 1427번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1427.java) : 소트 인사이드
+
     * [[210127] 11650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11650.java) : 좌표 정렬하기
+
     * [[210127] 11651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11651.java) : 좌표 정렬하기2
+
     * [[210224] 1181번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1181.java) : 단어 정렬
+
     * [[210305] 10814번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10814.java) : 나이순 정렬
+
+---
+
+13. **백트래킹**(~ing)
+    * [[210311] 15649번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage13/A15649.java) : N과 M(1)
+    * [[210312] 15650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage13/A15650.java) : N과 M(2)
+    * [[210312] 15651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage13/A15651.java) : N과 M(3)
+    * [[210312] 15652번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage13/A15652.java) : N과 M(4)
 
 ---
 
@@ -127,6 +144,7 @@
     * [[210220] 1934번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A1934.java): 최소공배수
     * [[210220] 3036번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A3036.java): 링
     * [[210220] 11050번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A11050.java): 이항계수
+    * [[210313] 1676번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage16/A1676.java): 팩토리얼 0의 개수
 
 ---
 
