@@ -15,7 +15,7 @@ import java.io.InputStreamReader;
 /**
  * dfs 와 백트래킹의 차이
  * dfs 는 완전탐색 (끝날 때 까지 재귀호출)
- * 백트래킹은 조건에 맞지 않으면 호출 중단
+ * 백트래킹은 조건에 맞지 않으면 호출 중
  */
 public class A9663 {
 

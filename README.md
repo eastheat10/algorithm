@@ -79,7 +79,7 @@
 
 ---
 
-10. **재귀**(~ing)
+10. **재귀**(finish)
     * [[210107] 10872번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/A10872.java) : 팩토리얼
     * [[210107] 10870번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/A10870.java) : 피보나치 수 5
     * [[210122] 11729번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage10/A11729.java) : 하노이 탑
@@ -95,25 +95,24 @@
 
 ---
 
-12. **정렬**(~ing)
-
-    * [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2750.java) : 수 정렬하기 1 (삽입정렬, 버블정렬)
-
-    * [[210124] 2751번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2751.java) : 수 정렬하기 2 (메소드 활용)
-
-    * [[210125] 10989번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10989.java) : 수 정렬하기 3 (계수정렬)
-
-    * [[] 2108번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2108.java) : 통계학
-
-    * [[210125] 1427번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1427.java) : 소트 인사이드
-
-    * [[210127] 11650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11650.java) : 좌표 정렬하기
-
-    * [[210127] 11651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11651.java) : 좌표 정렬하기2
-
-    * [[210224] 1181번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1181.java) : 단어 정렬
-
-    * [[210305] 10814번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10814.java) : 나이순 정렬
+12. **정렬**(finish)
+* [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2750.java) : 수 정렬하기 1 (삽입정렬, 버블정렬)
+    
+* [[210124] 2751번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2751.java) : 수 정렬하기 2 (메소드 활용)
+    
+* [[210125] 10989번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10989.java) : 수 정렬하기 3 (계수정렬)
+    
+* [[210319] 2108번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A2108.java) : 통계학
+    
+* [[210125] 1427번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1427.java) : 소트 인사이드
+    
+* [[210127] 11650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11650.java) : 좌표 정렬하기
+    
+* [[210127] 11651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A11651.java) : 좌표 정렬하기2
+    
+* [[210224] 1181번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A1181.java) : 단어 정렬
+    
+* [[210305] 10814번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage12/A10814.java) : 나이순 정렬
 
 ---
 
