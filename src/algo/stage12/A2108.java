@@ -7,25 +7,8 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Arrays;
 
+// 통계학
 public class A2108 {
-
-	public static void countingSort(int[] arr, int max) {
-		int[] tmp = new int[max + 1];
-		int[] result = new int[arr.length];
-
-		for(int i = 0; i < arr.length; i++)
-			tmp[arr[i]]++;
-
-		for(int i = 1; i <= max; i++)
-			tmp[i] += tmp[i-1];
-
-		for(int i = arr.length - 1; i >= 0; i--)
-			result[--tmp[arr[i]]] = arr[i];
-
-		for(int i = 0; i < arr.length; i++)
-			arr[i] = result[i];
-
-	}
 
 	public static void main(String[] args)  throws IOException, NumberFormatException {
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -37,15 +20,8 @@ public class A2108 {
 			arr[i] = Integer.parseInt(br.readLine());
 		Arrays.sort(arr);
 
-		int avg = 0, med = 0, mode = 0, range = 0; // 평균, 중앙값, 최빈값, 합계
+		int avg = 0, med = 0, mode = 0, range = 0; // 평균, 중앙값, 최빈값, 범위
 		double sum = 0;
-		int max = arr[0], min = arr[0];
-		for(int i = 1; i < arr.length; i++) {
-			if(max < arr[i])
-				max = arr[i];
-			if(min > arr[i])
-				min = arr[i];
-		}
 
 		// 평균
 		for(int i = 0; i < n; i++) {
@@ -56,20 +32,51 @@ public class A2108 {
 		med = arr[n / 2];
 
 		// 범위
-		range = max - min;
+		range = arr[arr.length - 1] - arr[0];
 
 		// 최빈값
-		int[] mode1 = new int[8001];
-		int modeMax = 0;
-		for(int i = 0; i < arr.length; i++) {
-			mode1[arr[i]]++;
+		if (n == 1) {
+			mode = arr[0];
+			sb.append(avg + "\n" +
+					med + "\n" +
+					mode + "\n" +
+					range + "\n");
+			bw.write(sb.toString());
+			br.close(); bw.flush(); bw.close();
 		}
+		else {
+			int[] count = new int[8001];
+			for (int num : arr)
+				count[num + 4000]++;
+			int modeMax = 0;    // 최대 몇번 나왔나
+			int modeMaxIndex = 0;    // modeMax 인덱스
+			for (int i = 0; i < count.length; i++) {
+				if (count[i] > modeMax)
+					modeMax = count[i];
+			}
 
-		sb.append(avg + "\n" +
-				med + "\n" +
-				mode + "\n" +
-				range + "\n");
-		bw.write(sb.toString());
-		br.close(); bw.flush(); bw.close();
+			boolean secondFlag = false;
+			for (int i = 0; i < count.length; i++) {
+				if (count[i] == modeMax) {
+					if (secondFlag) {
+						modeMaxIndex = i - 4000;
+						break;
+					}
+					modeMaxIndex = i - 4000;
+					secondFlag = true;
+				}
+			}
+
+			mode = modeMaxIndex;
+
+			sb.append(avg + "\n" +
+					med + "\n" +
+					mode + "\n" +
+					range + "\n");
+			bw.write(sb.toString());
+			br.close();
+			bw.flush();
+			bw.close();
+		}
 	}
 }
