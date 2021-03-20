@@ -127,6 +127,9 @@
 
 14. **동적 계획법1**(~ing)
     * [[210305] 1003번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage14/A1003.java) : 피보나치 함수
+    * [[210319] 9184번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage14/A9184.java) : 신나는 함수 실행
+    * [[210319] 9104번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage14/A9104.java) : 01타일
+    * [[210320] 9461번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage14/A9461.java) : 파도반 수열
 
 ---
 
