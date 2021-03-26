@@ -13,19 +13,30 @@ public class A1874 {
         int n = Integer.parseInt(br.readLine());
         Stack<Integer> stack = new Stack<>();
 
-        while (true) {
+        int tmp = 0;    // 스택 맨 위에 있는 애
+        for(int i = 0; i < n; i++) {
             int num = Integer.parseInt(br.readLine());
-            int tmp = 1;    // 스택 맨 위에 있는 애
-            while (tmp <= num) {
-                stack.push(tmp++);
-                sb.append("+\n");
-            }
-            if (stack.peek() == num) {
 
+            if (tmp <= num) {
+                while (tmp < num) {
+                    stack.push(++tmp);
+                    sb.append("+\n");
+                    if (tmp == num) {
+                        stack.pop();
+                        sb.append("-\n");
+                        continue;
+                    }
+                }
+            } else {
+                if(stack.peek() != num) {
+                    System.out.println("NO");
+                    return;
+                }
+                stack.pop();
+                sb.append("-\n");
             }
-
         }
 
-        //System.out.println(sb);
+        System.out.println(sb);
     }
 }
