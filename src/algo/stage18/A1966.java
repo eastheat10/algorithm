@@ -1,35 +1,71 @@
 package algo.stage18;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.StringTokenizer;
+import java.util.*;
 
 // 프린터 큐
 public class A1966 {
-    public static void main(String[] args) throws IOException {
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuffer sb = new StringBuffer();
-        int n = Integer.parseInt(br.readLine());
 
-        Queue<Integer> q = new LinkedList<>();
-
-        for (int i = 0; i < n; i++) {
-            StringTokenizer st1 = new StringTokenizer(br.readLine());
-            int size = Integer.parseInt(st1.nextToken());
-            int where = Integer.parseInt(st1.nextToken());
-            int max = 0;
-            StringTokenizer st2 = new StringTokenizer(br.readLine());
-            for (int j = 0; j < size; j++) {
-                int imp = Integer.parseInt(st2.nextToken());
-                if(max < imp) max = imp;
-                q.add(imp);
+    public static int findMax(int[] arr) {
+        int max = 0;
+        for (int i = 9; i > 0; i--) {
+            if (arr[i] != 0) {
+                max = arr[i];
+                break;
             }
         }
+        return max;
+    }
 
-        bw.write(sb.toString());
-        br.close(); bw.flush(); bw.close();
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuffer sb = new StringBuffer();
+
+        int testCase = Integer.parseInt(br.readLine());
+        for (int i = 0; i < testCase; i++) {
+            LinkedList<int[]> q = new LinkedList<>();
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int[] importance = new int[10];
+
+            int n = Integer.parseInt(st.nextToken());   // 문서의 개수
+            int m = Integer.parseInt(st.nextToken());   // 몇 번째로 인쇄될지 궁금한 문서의 현재 위치
+            // 0 1 2 3 ... n
+            int count = 0;
+
+            st = new StringTokenizer(br.readLine());
+            for (int j = 0; j < n; j++) {
+                q.offer(new int[]{j, Integer.parseInt(st.nextToken())});
+                // 초기 위치, 중요도
+            }
+
+            // 케이스 별 반복문 실행
+            while (!q.isEmpty()) {
+                int[] front = q.poll(); // 첫번째 원소 저장
+                boolean isMax = true;   // 중요도 최대값 체크
+
+                for (int k = 0; k < q.size(); k++) {
+                    if (front[1] < q.get(k)[1]) {   // 맨 앞 원소보다 뒤의 원소가 더 크면
+                        q.offer(front); //첫번째 원소 큐에 저장
+                        for (int l = 0; l < k; l++) {
+                            q.offer(q.poll());  // 나머지 작은 원소들 큐에 다시 저장
+                        }
+                        isMax = false;
+                        break;
+                    }
+                }
+
+                if(isMax == false)
+                    continue;
+
+                count++;
+                if (front[0] == m) {
+                    break;
+                }
+            }
+            sb.append(count + "\n");
+        }
+
+        System.out.println(sb);
+        br.close();
     }
 }
