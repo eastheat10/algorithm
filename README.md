@@ -146,14 +146,13 @@
 
 ---
 
-17. **스택** (~ing)
-* [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10828.java): 스택
-    
+17. **스택** (finish)
+    * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10828.java): 스택
     * [[210201] 10773번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A10773.java): 제로	
-    
     * [[210228] 9012번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A9012.java): 괄호
-    
     * [[210301] 4949번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A4949.java): 균형잡힌 세상
+    * [[210326] 1874번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A1874.java): 스택 수열
+    * [[210326] 17298번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A1874.java): 오큰수
 
 
 
@@ -162,7 +161,8 @@
 18. **큐, 덱**(~ing)
     * [[210216] 18258번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A18258.java): 큐2
     * [[210217] 2164번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A18258.java): 카드2
-    * [[210217] 118866번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A118866.java): 요세푸스 문제0
+    * [[210217] 11866번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A11866.java): 요세푸스 문제0
+    * [[210327] 1966번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A1966.java): 프린터 큐
 
 
 
