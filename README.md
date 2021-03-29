@@ -152,7 +152,7 @@
     * [[210228] 9012번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A9012.java): 괄호
     * [[210301] 4949번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A4949.java): 균형잡힌 세상
     * [[210326] 1874번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A1874.java): 스택 수열
-    * [[210326] 17298번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A1874.java): 오큰수
+    * [[210326] 17298번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage17/A17298.java): 오큰수
 
 
 
