@@ -18,20 +18,32 @@ public class QuickSort {
         arr[end] = tmp;
     }
 
-    public static int partition(int[] arr, int start, int end) {
-        int pivot = arr[(start + end) / 2];
-        while (start <= end) {
-            while (arr[start] < pivot)
-                start++;
-            while (arr[end] > pivot)
-                end--;
-            if (start <= end) {
-                swap(arr, start, end);
-                start++;
-                end--;
+//    public static int partition(int[] arr, int start, int end) {
+//        int pivot = arr[(start + end) / 2];
+//        while (start <= end) {
+//            while (arr[start] < pivot)
+//                start++;
+//            while (arr[end] > pivot)
+//                end--;
+//            if (start <= end) {
+//                swap(arr, start, end);
+//                start++;
+//                end--;
+//            }
+//        }
+//        return start;
+//    }
+
+    public static int partition(int[] arr, int p, int r) {
+        int pivot = arr[r];
+        int i = p - 1;
+        for (int j = p; j < r; j++) {
+            if(arr[j] <= pivot) {
+                swap(arr, ++i, j);
             }
         }
-        return start;
+        swap(arr, i + 1, r);
+        return i + 1;
     }
 
     public static void main(String[] args) {
