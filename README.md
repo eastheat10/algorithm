@@ -1,6 +1,9 @@
 # Algorithm
+* JAVA로 푸는 알고리즘
+
+
+
 ### 백준 알고리즘 단계별로 풀기
-* **Java**
 
 
 - - - -
@@ -170,3 +173,26 @@
 
 23. **DFS와 BFS** (~ing)
     * [[210323] 1260번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage23/A1260.java): DFS와 BFS
+
+
+
+
+
+### 프로그래머스 알고리즘
+
+---
+
+* 정렬
+  * [[210420] K 번째 수](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/KthNumber.java)
+  * [[210420] 가장 큰 수](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/BiggestNumber.java)
+  * [[210420] H-Index](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/HIndex.java)
+
+---
+
+* 탐욕법
+
+  * [[210418] 체육복](https://github.com/eastheat10/algorithm/blob/master/src/programers/greedy/GymSuit.java)
+
+  * [[210419] 조이스틱](https://github.com/eastheat10/algorithm/blob/master/src/programers/greedy/JoyStick.java)
+  * [[210419] 큰 수 만들기](https://github.com/eastheat10/algorithm/blob/master/src/programers/greedy/MakeBigNumber.java)
+

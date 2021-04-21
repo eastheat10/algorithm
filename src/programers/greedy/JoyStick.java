@@ -16,11 +16,11 @@ public class JoyStick {
             answer += mov;
 
             // 조이스틱 좌, 우 이동
-            int nextWord = i + 1;
-            while (nextWord < len && name.charAt(nextWord) == 'A')
-                nextWord++;
+            int nextIndex = i + 1;
+            while (nextIndex < len && name.charAt(nextIndex) == 'A')
+                nextIndex++;
 
-            min = Math.min(min, (i * 2) + len - nextWord);
+            min = Math.min(min, (i * 2) + len - nextIndex);
         }
         answer += min;
 

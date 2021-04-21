@@ -1,6 +1,6 @@
 package programers.greedy;
 
-import java.util.Arrays;
+import java.util.Stack;
 
 // 큰 수 만들기
 public class MakeBigNumber {
@@ -20,16 +20,37 @@ public class MakeBigNumber {
                     index = j + 1;
                 }
             }
+            System.out.println("max = " + max);
             sb.append(max);
         }
 
         return sb.toString();
     }
 
+    public static String solution2(String number, int k) {
+        char[] result = new char[number.length() - k];
+        Stack<Character> stack = new Stack<>();
+        System.out.println("k = " + k);
+
+        for (int i=0; i<number.length(); i++) {
+            char c = number.charAt(i);
+            while (!stack.isEmpty() && stack.peek() < c && k-- > 0) {
+                stack.pop();
+            }
+
+            System.out.println("k = " + k);
+            stack.push(c);
+        }
+        for (int i=0; i<result.length; i++) {
+            result[i] = stack.get(i);
+        }
+        return new String(result);
+    }
+
     public static void main(String[] args) {
-        System.out.println(solution("1924", 2));
-        System.out.println(solution("1231234", 3));
-        System.out.println(solution("4177252841", 4));
+        System.out.println(solution2("1924", 2));
+        System.out.println(solution2("1231234", 3));
+        System.out.println(solution2("4177252841", 4));
 
 //        "1924"	    2	"94"
 //        "1231234" 	3	"3234"
