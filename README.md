@@ -182,10 +182,29 @@
 
 ---
 
+* 해시
+  * [[210321] 완주하지 못한 선수](https://github.com/eastheat10/algorithm/blob/master/src/programers/hash/Marathon.java)
+  * [[210425] 전화번호 목록](https://github.com/eastheat10/algorithm/blob/master/src/programers/hash/Phone_book.java)
+
+---
+
 * 정렬
   * [[210420] K 번째 수](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/KthNumber.java)
   * [[210420] 가장 큰 수](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/BiggestNumber.java)
   * [[210420] H-Index](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/HIndex.java)
+
+---
+
+* 완전탐색
+  * [[210423] 모의고사](https://github.com/eastheat10/algorithm/blob/master/src/programers/bruteforce/MockTest.java)
+  * [[210424] 소수 찾기](https://github.com/eastheat10/algorithm/blob/master/src/programers/bruteforce/FindPrimeNumber.java)
+  * [[210424] 카펫]((https://github.com/eastheat10/algorithm/blob/master/src/programers/bruteforce/Carpet.java))
+
+---
+
+* 스택
+  * [[210422] 주식 가격](https://github.com/eastheat10/algorithm/blob/master/src/programers/stackAndQueue/StockPrice.java)
+  * [[210422] 다리를 지나는 트럭](https://github.com/eastheat10/algorithm/blob/master/src/programers/stackAndQueue/Truck.java)
 
 ---
 
