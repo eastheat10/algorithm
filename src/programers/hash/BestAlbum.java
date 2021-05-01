@@ -10,8 +10,10 @@ public class BestAlbum {
         int len = genres.length;
         ArrayList<Integer> answer = new ArrayList<>();
         HashMap<String, Integer> genrePlay = new HashMap<>();
+
         for (int i = 0; i < len; i++)
             genrePlay.put(genres[i], genrePlay.getOrDefault(genres[i], 0) + plays[i]);
+
         ArrayList<String> genre = new ArrayList<>(genrePlay.keySet());
         genre.sort((o1, o2) -> genrePlay.get(o2) - genrePlay.get(o1));
 
