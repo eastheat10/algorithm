@@ -4,30 +4,35 @@ import java.util.Arrays;
 import java.util.PriorityQueue;
 
 public class DiskController {
+
     public static int solution(int[][] jobs) {
+        int len = jobs.length;
         int answer = 0;
-        PriorityQueue<Integer> disk = new PriorityQueue<>();
+        int index = 0;
+        int count = 0;
+        int endTime = 0;
 
-        Arrays.sort(jobs, ((o1, o2) -> {
-            if (o1[1] == o2[1]) {
-                return o1[0] - o2[0];
-            } else {
-                return o1[1] - o2[1];
+        // 요청시간 오름차순
+        Arrays.sort(jobs, ((o1, o2) -> o1[0] - o2[0]));
+        // 작업시간 오름차순
+        PriorityQueue<int[]> disk = new PriorityQueue<>(((o1, o2) -> o1[1] - o2[1]));
+
+        while (count < len) {
+            while (index < len && endTime <= jobs[index][0]) {
+                disk.offer(jobs[index++]);
             }
-        }));
 
-        for (int[] job : jobs) {
-            int length = job[1] - job[0];
-            disk.offer(length);
+            if (disk.isEmpty()) {
+                disk.offer(jobs[0]);
+            } else {
+                int[] tmp = disk.poll();
+                count++;
+                answer += endTime + tmp[1] - tmp[0];
+                endTime += tmp[1];
+            }
         }
-        int size = jobs.length;
-        while (!disk.isEmpty()) {
-            int poll = disk.poll();
-            System.out.println("poll = " + poll);
-            answer += answer + poll;
-            System.out.println("answer = " + answer);
-        }
-        return answer / size;
+
+        return answer / len;
     }
 
     public static void main(String[] args) {
@@ -35,7 +40,7 @@ public class DiskController {
     }
 
     /**
-     * jobs	                     return
+     * jobs([요청시간, 작업시간])     return
      * [[0, 3], [1, 9], [2, 6]]	 9
      */
 }
