@@ -15,15 +15,15 @@ public class DiskController {
         // 요청시간 오름차순
         Arrays.sort(jobs, ((o1, o2) -> o1[0] - o2[0]));
         // 작업시간 오름차순
-        PriorityQueue<int[]> disk = new PriorityQueue<>(((o1, o2) -> o1[1] - o2[1]));
+        PriorityQueue<int[]> disk = new PriorityQueue<>((o1, o2) -> o1[1] - o2[1]);
 
         while (count < len) {
-            while (index < len && endTime <= jobs[index][0]) {
+            while (index < len && endTime >= jobs[index][0]) {
                 disk.offer(jobs[index++]);
             }
 
             if (disk.isEmpty()) {
-                disk.offer(jobs[0]);
+                endTime = jobs[index][0];
             } else {
                 int[] tmp = disk.poll();
                 count++;
