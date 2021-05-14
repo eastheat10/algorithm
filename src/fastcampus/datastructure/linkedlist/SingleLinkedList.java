@@ -1,7 +1,7 @@
 package fastcampus.datastructure.linkedlist;
 
 public class SingleLinkedList<T> {
-    public Node<T> head = null;
+    public Node<T> root = null;
 
     public class Node<T> {
         T data; // 데이터
@@ -21,10 +21,10 @@ public class SingleLinkedList<T> {
     }
 
     public void addNode(T data) {
-        if (head == null) {
-            head = new Node<>(data);
+        if (root == null) {
+            root = new Node<>(data);
         } else {
-            Node<T> node = this.head;
+            Node<T> node = this.root;
             while (node.next != null) {
                 node = node.next;
             }
@@ -33,11 +33,11 @@ public class SingleLinkedList<T> {
     }
 
     public void printAll() {
-        if (head == null) {
+        if (root == null) {
             System.out.println("빈 리스트!");
             return;
         } else {
-            Node<T> node = this.head;
+            Node<T> node = this.root;
             System.out.println(node.data);
             while (node.next != null) {
                 node = node.next;
@@ -59,10 +59,10 @@ public class SingleLinkedList<T> {
     }
 
     public Node<T> search(T data) {
-        if (head == null) {
+        if (root == null) {
             return null;
         }
-        Node<T> node = this.head;
+        Node<T> node = this.root;
         while (node != null) {
             if (node.data == data) {
                 return node;
@@ -74,15 +74,15 @@ public class SingleLinkedList<T> {
     }
 
     public boolean deleteNode(T data) {
-        if (head == null) {
-            // head가 null 이면 빈 리스트
+        if (root == null) {
+            // root가 null 이면 빈 리스트
             return false;
         }
 
-        Node<T> node = head;
+        Node<T> node = root;
         if (node.data == data) {
-            // head의 data가 삭제하려는 데이터면 head가 원래 head의 다음노드
-            head = node.next;
+            // root의 data가 삭제하려는 데이터면 root가 원래 root의 다음노드
+            root = node.next;
             return true;
         }
         while (node.next != null) {
@@ -98,7 +98,7 @@ public class SingleLinkedList<T> {
     public static void main(String[] args) {
         SingleLinkedList<Integer> sl = new SingleLinkedList<>();
         sl.addNode(1);
-        System.out.println("sl.head.data = " + sl.head.data);
+        System.out.println("sl.root.data = " + sl.root.data);
         sl.addNode(2);
         sl.addNode(3);
 

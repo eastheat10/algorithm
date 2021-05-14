@@ -2,7 +2,7 @@ package homework.hw6_1;
 
 public class MyBinarySearchTree {
 
-    private Node root = new Node();
+    private Node root  = new Node();
 
     public MyBinarySearchTree() {
         this.root = null;

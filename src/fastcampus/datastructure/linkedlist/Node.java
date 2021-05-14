@@ -14,7 +14,7 @@ public class Node<T> {
 
         node1.next = node2;
 
-        Node head = node1;
+        Node root = node1;
 
     }
 }

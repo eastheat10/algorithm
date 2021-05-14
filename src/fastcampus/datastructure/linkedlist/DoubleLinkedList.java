@@ -2,7 +2,7 @@ package fastcampus.datastructure.linkedlist;
 
 public class DoubleLinkedList<T> {
 
-    private Node<T> head = null;
+    private Node<T> root = null;
     private Node<T> tail = null;
 
     public class Node<T> {
@@ -16,11 +16,11 @@ public class DoubleLinkedList<T> {
     }
 
     public void addNode(T data) {
-        if (head == null) {
-            this.head = new Node<>(data);
-            this.tail = this.head;
+        if (root == null) {
+            this.root = new Node<>(data);
+            this.tail = this.root;
         } else {
-            Node<T> node = this.head;
+            Node<T> node = this.root;
             while (node.next != null) {
                 node = node.next;
             }
@@ -31,11 +31,11 @@ public class DoubleLinkedList<T> {
     }
 
     public void printAll() {
-        if (head == null) {
+        if (root == null) {
             System.out.println("empty list");
             return;
         }
-        Node<T> node = this.head;
+        Node<T> node = this.root;
         System.out.println(node.data);
         while (node.next != null) {
             node = node.next;
@@ -57,11 +57,11 @@ public class DoubleLinkedList<T> {
     }
 
     public Node<T> search(T data) {
-        if (head == null) {
+        if (root == null) {
             System.out.println("empty list");
             return null;
         }
-        Node<T> node = this.head;
+        Node<T> node = this.root;
         if (node.data == data) {
             return node;
         }
@@ -95,17 +95,17 @@ public class DoubleLinkedList<T> {
     }
 
     public boolean addPrev(T data, T after) {
-        if (head == null) {
-            this.head = new Node<>(data);
-            this.tail = this.head;
+        if (root == null) {
+            this.root = new Node<>(data);
+            this.tail = this.root;
             return true;
-        } else if (head.data == after) {
-            Node<T> newHead = new Node<>(data);
-            newHead.next = this.head;
-            this.head = newHead;
+        } else if (root.data == after) {
+            Node<T> newroot = new Node<>(data);
+            newroot.next = this.root;
+            this.root = newroot;
             return true;
         } else {
-            Node<T> node = this.head;
+            Node<T> node = this.root;
             while (node != null) {
                 if (node.data == after) {
                     Node<T> newNode = new Node<>(data);
@@ -125,9 +125,9 @@ public class DoubleLinkedList<T> {
     }
 
     public boolean addNext(T data, T before) {
-        if (head == null) {
-            this.head = new Node<>(data);
-            this.tail = this.head;
+        if (root == null) {
+            this.root = new Node<>(data);
+            this.tail = this.root;
             return true;
         } else if (tail.data == before) {
             Node<T> tailNode = new Node<>(data);
@@ -136,7 +136,7 @@ public class DoubleLinkedList<T> {
             this.tail = tailNode;
             return true;
         } else {
-            Node<T> node = this.head;
+            Node<T> node = this.root;
             while (node != null) {
                 if (node.data == before) {
                     Node<T> newNode = new Node<>(data);

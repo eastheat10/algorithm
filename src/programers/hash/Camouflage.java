@@ -20,7 +20,7 @@ public class Camouflage {
     }
 
     public static void main(String[] args) {
-        String[][] answer1 = {{"yellowhat", "headgear"}, {"bluesunglasses", "eyewear"}, {"green_turban", "headgear"}};
+        String[][] answer1 = {{"yellowhat", "rootgear"}, {"bluesunglasses", "eyewear"}, {"green_turban", "rootgear"}};
         System.out.println(solution(answer1));
         System.out.println();
         String[][] answer2 = {{"crowmask", "face"}, {"bluesunglasses", "face"}, {"smoky_makeup", "face"}};
@@ -29,7 +29,7 @@ public class Camouflage {
 
     /**
      * clothes	                                                                                return
-     * [["yellowhat", "headgear"], ["bluesunglasses", "eyewear"], ["green_turban", "headgear"]]	5
+     * [["yellowhat", "rootgear"], ["bluesunglasses", "eyewear"], ["green_turban", "rootgear"]]	5
      * [["crowmask", "face"], ["bluesunglasses", "face"], ["smoky_makeup", "face"]]	            3
      */
 

@@ -1,4 +1,4 @@
-package fastcampus.datastructure.hashtable;
+package fastcampus.datastructure;
 
 public class MyHashTable {
 
