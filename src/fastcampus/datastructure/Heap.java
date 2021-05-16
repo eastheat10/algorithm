@@ -120,17 +120,20 @@ public class Heap {
                     }
                 }
             }
+            return returnData;
         }
     }
 
     public static void main(String[] args) {
-        Heap heap = new Heap(15);
-        heap.insert(10);
-        heap.insert(8);
-        heap.insert(5);
-        heap.insert(4);
-        heap.insert(20);
-        System.out.println(heap.heapList);
+        Heap heapTest = new Heap(15);
+        heapTest.insert(10);
+        heapTest.insert(8);
+        heapTest.insert(5);
+        heapTest.insert(4);
+        heapTest.insert(20);
+        System.out.println(heapTest.heapList);
 
+        heapTest.pop();
+        System.out.println(heapTest.heapList);
     }
 }
