@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 // 먹을 것인가 먹힐 것인가
 public class A7795 {
 
-    static int n, na, nb, count;
+    static int na, nb, count;
     static int[] a, b;
     static StringBuilder sb = new StringBuilder();
 
@@ -28,10 +28,10 @@ public class A7795 {
     }
 
     public static void find() {
-        Arrays.sort(b);
+        Arrays.sort(b, 1, nb + 1);
 
-        for (int i = 0; i < na; i++) {
-            count += count(0, b.length - 1, a[i]);
+        for (int i = 1; i <= na; i++) {
+            count += count(1, nb, a[i]);
         }
         sb.append(count).append("\n");
     }
@@ -41,30 +41,27 @@ public class A7795 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
 
-        n = Integer.parseInt(br.readLine());
+        int testCase = Integer.parseInt(br.readLine());
 
-        for (int i = 0; i < n; i++) {
-
+        for (int i = 0; i < testCase; i++) {
             st = new StringTokenizer(br.readLine());
             na = Integer.parseInt(st.nextToken());
             nb = Integer.parseInt(st.nextToken());
 
-            a = new int[na];
-            b = new int[nb];
+            a = new int[na + 1];
+            b = new int[nb + 1];
 
             st = new StringTokenizer(br.readLine());
-            for (int ia = 0; ia < na; ia++)
+            for (int ia = 1; ia <= na; ia++)
                 a[ia] = Integer.parseInt(st.nextToken());
 
             st = new StringTokenizer(br.readLine());
-            for (int ib = 0; ib < nb; ib++)
+            for (int ib = 1; ib <= nb; ib++)
                 b[ib] = Integer.parseInt(st.nextToken());
 
             count = 0;
             find();
         }
-
         System.out.println(sb.toString());
-
     }
 }

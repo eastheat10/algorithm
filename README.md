@@ -168,7 +168,11 @@
     * [[210217] 11866번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A11866.java): 요세푸스 문제0
     * [[210327] 1966번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage18/A1966.java): 프린터 큐
 
+---
 
+20. **이분 탐색** (~ing)
+    * [[210517] 7795번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage20/A7795.java): 먹을 것인가 먹힐 것인가 
+    * [[210518] 2470번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage20/A7795.java): 두 용액
 
 ---
 
