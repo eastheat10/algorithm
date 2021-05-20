@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 import java.util.Arrays;
 
+// 두 용액
 class A2470{
     static int n;
     static int[] solution;
