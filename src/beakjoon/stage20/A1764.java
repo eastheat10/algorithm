@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+// 듣보잡
 public class A1764 {
 
     static int n, m, count = 0;
