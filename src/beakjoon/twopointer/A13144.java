@@ -14,7 +14,7 @@ public class A13144 {
     public static void input() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         n = Integer.parseInt(br.readLine());
-        arr = new int[n + 1];
+        arr = new int[(n + 1)];
         count = new int[n + 1];
         StringTokenizer st = new StringTokenizer(br.readLine());
         for (int i = 1; i <= n; i++)
@@ -22,11 +22,19 @@ public class A13144 {
     }
 
     public static void find() {
-        int r = n;
-        int result = 0;
+        long answer = 0;
+        int r = 0;
         for (int l = 1; l <= n; l++) {
 
+            while (r < n && count[arr[r + 1]] == 0) {
+                r++;
+                count[arr[r]]++;
+            }
+
+            answer += r - l + 1;
+            count[l]--;
         }
+        System.out.println(answer);
     }
 
     public static void main(String[] args) throws IOException {
