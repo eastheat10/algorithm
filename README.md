@@ -30,13 +30,14 @@
 	* [1110번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage4/A1110.java) : 더하기 사이클
 - - - -
 5. **1차원 배열** 
-* [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
-  
-* [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
-  
-* [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
-  
-* [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
+
+   * [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
+
+   * [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
+
+   * [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
+
+   * [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
 
 - - - -
 6. **함수**
@@ -182,10 +183,11 @@
 ---
 
 26. **투 포인터**
-
     * [[210521] 2470번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage26/A2470.java): 두 용액
-
     *  [[210521] 1806번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage26/A1806.java): 부분합
+    *  [[210522] 13144번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage26/A13144.java): List of unique number
+    *  [[210522] 1253번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage26/A1253.java): 좋다
+    *  [[210523] 16472번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage26/A16472.java): 고냥이 
 
 
 
