@@ -1,4 +1,4 @@
-package beakjoon.stage13;
+package beakjoon.backtracking;
 
 import java.io.BufferedReader;
 import java.io.IOException;
