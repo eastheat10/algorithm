@@ -1,4 +1,4 @@
-package beakjoon.stage20;
+package beakjoon.binarysearch;
 
 import java.io.BufferedReader;
 import java.io.IOException;
