@@ -1,4 +1,4 @@
-package beakjoon.stage11;
+package beakjoon.bruteforce;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
