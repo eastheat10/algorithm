@@ -3,14 +3,12 @@ package fastcampus.graph;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.StringTokenizer;
+import java.util.*;
 
-public class Graph {
+public class Graph_list {
 
     static int n, m, v;
-    static int[][] adj;
+    static ArrayList<Integer>[] adj;
     static boolean[] visit;
     static StringBuilder sb = new StringBuilder();
 
@@ -20,21 +18,27 @@ public class Graph {
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
         v = Integer.parseInt(st.nextToken());
-        adj = new int[n + 1][n + 1];
+
+        adj = new ArrayList[n + 1];
+        for (int i = 1; i <= n; i++)
+            adj[i] = new ArrayList<>();
+
         for (int i = 1; i <= m; i++) {
             st = new StringTokenizer(br.readLine());
             int x = Integer.parseInt(st.nextToken());
             int y = Integer.parseInt(st.nextToken());
-            adj[x][y] = 1;
-            adj[y][x] = 1;
+            adj[x].add(y);
+            adj[y].add(x);
+        }
+        for (int i = 1; i <= n; i++) {
+            Collections.sort(adj[i]);
         }
     }
 
     static void dfs(int x) {
         visit[x] = true;
         sb.append(x).append(" ");
-        for (int y = 1; y <= n; y++) {
-            if(adj[x][y] == 0) continue;
+        for (int y : adj[x]) {
             if(visit[y] == true) continue;
             dfs(y);
         }
@@ -49,8 +53,7 @@ public class Graph {
         while (!q.isEmpty()) {
             x = q.poll();
             sb.append(x).append(" ");
-            for (int y = 1; y <= n; y++) {
-                if(adj[x][y] == 0) continue;
+            for (int y : adj[x]) {
                 if(visit[y]) continue;
                 q.add(y);
                 visit[y] = true;
@@ -72,3 +75,4 @@ public class Graph {
         process();
     }
 }
+
