@@ -30,12 +30,19 @@ public class Graph_matrix {
         }
     }
 
+    // x를 갈 수 있다는걸 알고 방문
     static void dfs(int x) {
+        // x를 방문했다.
         visit[x] = true;
         sb.append(x).append(" ");
+
+        // x에서 갈 수 있는 곳들을 방문한다.
         for (int y = 1; y <= n; y++) {
+            // 연결되어있지 않으면 방문하지 않는다
             if(adj[x][y] == 0) continue;
+            // 방문한 곳은 방문하지 않는다.
             if(visit[y] == true) continue;
+            // y에서 갈 수 있는 곳도 확인
             dfs(y);
         }
     }
