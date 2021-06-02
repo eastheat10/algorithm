@@ -1,4 +1,4 @@
-package beakjoon.stage12;
+package beakjoon.sort;
 
 import java.io.*;
 import java.util.Arrays;
