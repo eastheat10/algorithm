@@ -100,7 +100,6 @@
 
 12. **정렬**
     * [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A2750.java) : 수 정렬하기 1 (삽입정렬, 버블정렬)	
-    
     * [[210124] 2751번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A2751.java) : 수 정렬하기 2 (메소드 활용)
     * [[210125] 10989번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A10989.java) : 수 정렬하기 3 (계수정렬)
     * [[210319] 2108번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A2108.java) : 통계학
@@ -109,6 +108,8 @@
     * [[210127] 11651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A11651.java) : 좌표 정렬하기2
     * [[210224] 1181번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A1181.java) : 단어 정렬
     * [[210305] 10814번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A10814.java) : 나이순 정렬
+    * [[210602] 10825번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A10825.java) : [국영수](https://www.acmicpc.net/problem/10825)
+    * [[210603] 11652번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A11652.java) : [카드](https://www.acmicpc.net/problem/11652)
 
 ---
 
@@ -179,13 +180,18 @@
 ---
 
 23. **DFS와 BFS** (~ing)
-    * [[210323] 1260번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A1260.java): DFS와 BFS
-    * [[210528] 2667번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A2667.java): 단지 번호 붙이기 
-    * [[210528] 2251번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A2251.java): 물통
-    * [[210529] 14502번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A14502.java): 연구소
-    * [[210530] 2178번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A2178.java): 미로 탐색
-    * [[210531] 1697번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A1697.java): 숨바꼭질
-    * [[210531] 3055번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A3055.java): 탈출
+    * [[210323] 1260번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A1260.java): [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+    * [[210528] 2667번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A2667.java): [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)
+    * [[210528] 2251번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A2251.java): [물통](https://www.acmicpc.net/problem/2251)
+    * [[210529] 14502번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A14502.java): [연구소](https://www.acmicpc.net/problem/14502)
+    * [[210530] 2178번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A2178.java): [미로 탐색](https://www.acmicpc.net/problem/2178)
+    * [[210531] 1697번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A1697.java): [숨바꼭질](https://www.acmicpc.net/problem/1697)
+    * [[210531] 3055번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A3055.java): [탈출](https://www.acmicpc.net/problem/3055)
+    * [[210602] 1012번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A3055.java): [유기농 배추](https://www.acmicpc.net/problem/1012)
+    * [[210602] 11724번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A11724.java): [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
+    * [[210602] 4963번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A4963.java): [섬의 개수](https://www.acmicpc.net/problem/4963)
+    * [[210603] 3184번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A3184.java): [양](https://www.acmicpc.net/problem/3184)
+    * [[210603] 2606번](https://github.com/eastheat10/algorithm/blob/master/src/algo/dfsandbfs/A2606.java): [바이러스](https://www.acmicpc.net/problem/2606)
 
 ---
 
@@ -200,6 +206,7 @@
     *  [[210601] 2559번](https://github.com/eastheat10/algorithm/blob/master/src/algo/twopointer/A2559.java): 수열
     *  [[210601] 15565번](https://github.com/eastheat10/algorithm/blob/master/src/algo/twopointer/A15565.java): 귀여운 라이언
     *  [[210601] 11728번](https://github.com/eastheat10/algorithm/blob/master/src/algo/twopointer/A11728.java): 배열 합치기
+    *  [[210601] 2230번](https://github.com/eastheat10/algorithm/blob/master/src/algo/twopointer/A2230.java): 수들의 합
 
 
 
