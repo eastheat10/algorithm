@@ -50,7 +50,7 @@ public class A15970 {
                 int tmp1 = Math.abs(arr[i][0] - arr[i - 1][0]);
                 int tmp2 = Math.abs(arr[i + 1][0] - arr[i][0]);
                 if(arr[i][1] == arr[i + 1][1] && arr[i - 1][1] == arr[i][1])
-                    result[i] = Math.min(tmp1, tmp2);
+                    result[i] = tmp1 < tmp2 ? tmp1 : tmp2;
                 else if(arr[i][1] == arr[i + 1][1] && arr[i - 1][1] != arr[i][1])
                     result[i] = tmp2;
                 else
