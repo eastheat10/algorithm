@@ -22,13 +22,14 @@ public class Hw11_1 {
     }
 
     public static void main(String[] args) throws IOException {
-        System.out.println("hw11_1 : 윤동열");
+        System.out.println("hw11_1 : 윤동열\n");
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.print("신청 회의 수 입력: ");
         int n = Integer.parseInt(br.readLine());
         Conference[] array = new Conference[n];
 
+        System.out.println("12개의 회의명과 회의실 사용 시간(시작시와 종료시)을 whitespace로 구분하여 입력:");
         for (int i = 0; i < n; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
             String name = st.nextToken();   // 회의 이름

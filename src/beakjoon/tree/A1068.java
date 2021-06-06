@@ -28,20 +28,34 @@ public class A1068 {
                 continue;
             }
             list[p].add(i);
-
         }
 
         k = Integer.parseInt(br.readLine());
 
     }
 
-    static void dfs() {
-
+    static void dfs(int x) {
+        if (list[x].isEmpty()) {
+            leaf[x] = 1;
+        }
+        else {
+            for (Integer i : list[x]) {
+                dfs(i);
+                leaf[x] += leaf[i];
+            }
+        }
     }
 
     static void process() {
-        dfs();
-
+        for (int i = 0; i < n; i++) {
+            if (list[i].contains(k)) {
+                list[i].remove(list[i].indexOf(k));
+            }
+        }
+        if (root != k) {
+            dfs(root);
+        }
+        System.out.println(leaf[root]);
     }
 
     public static void main(String[] args) throws IOException {

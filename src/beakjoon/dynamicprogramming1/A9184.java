@@ -1,4 +1,4 @@
-package beakjoon.stage14;
+package beakjoon.dynamicprogramming1;
 
 import java.io.*;
 import java.util.StringTokenizer;
