@@ -3,10 +3,7 @@ package beakjoon.sort;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Objects;
 
 // 카드
 public class A11652 {

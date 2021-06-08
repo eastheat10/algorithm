@@ -110,16 +110,19 @@
     * [[210305] 10814번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A10814.java) : 나이순 정렬
     * [[210602] 10825번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A10825.java) : [국영수](https://www.acmicpc.net/problem/10825)
     * [[210603] 11652번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A11652.java) : [카드](https://www.acmicpc.net/problem/11652)
+    * [[210606] 15970번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A15970.java) : [화살표 그리기](https://www.acmicpc.net/problem/15970)
+    * [[210606] 20291번](https://github.com/eastheat10/algorithm/blob/master/src/algo/sort/A20291.java) : [파일 정리](https://www.acmicpc.net/problem/20291)
 
 ---
 
 13. **백트래킹**
-    * [[210311] 15649번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15649.java) : N과 M(1)
-    * [[210312] 15650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15650.java) : N과 M(2)
-    * [[210312] 15651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15651.java) : N과 M(3)
-    * [[210312] 15652번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15652.java) : N과 M(4)
-    * [[210315] 9663번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A9663.java) : N-Queen
-    * [[210516] 14888번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A9663.java) : 연산자 끼워넣기
+    * [[210311] 15649번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15649.java) : [N과 M(1)](https://www.acmicpc.net/problem/15649)
+    * [[210312] 15650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15650.java) : [N과 M(2)](https://www.acmicpc.net/problem/15650)
+    * [[210312] 15651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15651.java) : [N과 M(3)](https://www.acmicpc.net/problem/15651)
+    * [[210312] 15652번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15652.java) : [N과 M(4)](https://www.acmicpc.net/problem/15652)
+    * [[210312] 15663번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15663.java) : [N과 M(9)](https://www.acmicpc.net/problem/15663)
+    * [[210315] 9663번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A9663.java) : [N-Queen](https://www.acmicpc.net/problem/9663)
+    * [[210516] 14888번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A9663.java) : [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 
 ---
 
@@ -207,6 +210,12 @@
     *  [[210601] 15565번](https://github.com/eastheat10/algorithm/blob/master/src/algo/twopointer/A15565.java): 귀여운 라이언
     *  [[210601] 11728번](https://github.com/eastheat10/algorithm/blob/master/src/algo/twopointer/A11728.java): 배열 합치기
     *  [[210601] 2230번](https://github.com/eastheat10/algorithm/blob/master/src/algo/twopointer/A2230.java): 수들의 합
+
+---
+
+28. **트리** 
+    * [[210605] 1068번](https://github.com/eastheat10/algorithm/blob/master/src/algo/tree/A1068.java): [트리](https://www.acmicpc.net/problem/1068)
+    * [[210605] 11725번](https://github.com/eastheat10/algorithm/blob/master/src/algo/tree/A11725.java): [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
 
 
 
