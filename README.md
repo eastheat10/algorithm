@@ -120,9 +120,10 @@
     * [[210312] 15650번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15650.java) : [N과 M(2)](https://www.acmicpc.net/problem/15650)
     * [[210312] 15651번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15651.java) : [N과 M(3)](https://www.acmicpc.net/problem/15651)
     * [[210312] 15652번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15652.java) : [N과 M(4)](https://www.acmicpc.net/problem/15652)
-    * [[210312] 15663번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15663.java) : [N과 M(9)](https://www.acmicpc.net/problem/15663)
+    * [[210608] 15663번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A15663.java) : [N과 M(9)](https://www.acmicpc.net/problem/15663)
     * [[210315] 9663번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A9663.java) : [N-Queen](https://www.acmicpc.net/problem/9663)
     * [[210516] 14888번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A9663.java) : [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+    * [[210609] 1759번](https://github.com/eastheat10/algorithm/blob/master/src/algo/backtracking/A1759.java) : [암호 만들기](https://www.acmicpc.net/problem/1759)
 
 ---
 
@@ -175,10 +176,11 @@
 ---
 
 20. **이분 탐색**
-    * [[210517] 7795번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A7795.java): 먹을 것인가 먹힐 것인가 
-    * [[210520] 1920번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A1920.java): 수 찾기
-    * [[210520] 1764번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A1764.java): 듣보잡
-    * [[210518] 2470번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A2470.java): 두 용액
+    * [[210517] 7795번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A7795.java): [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)
+    * [[210520] 1920번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A1920.java): [수 찾기](https://www.acmicpc.net/problem/1920)
+    * [[210520] 1764번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A1764.java): [듣보잡](https://www.acmicpc.net/problem/1764)
+    * [[210518] 2470번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A2470.java): [두 용액](https://www.acmicpc.net/problem/2470)
+    * [[210610] 2805번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A2805.java): [나무 자르기](https://www.acmicpc.net/problem/2805)
 
 ---
 
