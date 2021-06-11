@@ -181,6 +181,8 @@
     * [[210520] 1764번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A1764.java): [듣보잡](https://www.acmicpc.net/problem/1764)
     * [[210518] 2470번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A2470.java): [두 용액](https://www.acmicpc.net/problem/2470)
     * [[210610] 2805번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A2805.java): [나무 자르기](https://www.acmicpc.net/problem/2805)
+    * [[210611] 2110번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A2805.java): [공유기 설치](https://www.acmicpc.net/problem/2110)
+    * [[210611] 2805번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A1654.java): [랜선 만들기](https://www.acmicpc.net/problem/1654)
 
 ---
 
