@@ -183,6 +183,8 @@
     * [[210610] 2805번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A2805.java): [나무 자르기](https://www.acmicpc.net/problem/2805)
     * [[210611] 2110번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A2805.java): [공유기 설치](https://www.acmicpc.net/problem/2110)
     * [[210611] 2805번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A1654.java): [랜선 만들기](https://www.acmicpc.net/problem/1654)
+    * [[210612] 2512번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A2512.java): [예산](https://www.acmicpc.net/problem/2512)
+    * [[210613] 2343번](https://github.com/eastheat10/algorithm/blob/master/src/algo/binarysearch/A2343.java): [기타 레슨](https://www.acmicpc.net/problem/2343)
 
 ---
 
