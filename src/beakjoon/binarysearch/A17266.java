@@ -27,21 +27,16 @@ public class A17266 {
     }
 
     static boolean check(long l) {
+        long last = 0;
 
         for (int i = 1; i <= m; i++) {
-            long tmp = arr[i];
-            for (long j = (tmp - l); j <= tmp + l; j++) {
-                if (j < 0 || j > n) break;
-                street[(int) j]++;
-            }
-        }
-
-        for (int i = 0; i <= n; i++) {
-            if(street[i] == 0)
+            if(arr[i] - last <= l)
+                last = arr[i] + l;
+            else
                 return false;
         }
 
-        return true;
+        return last >= n;
     }
 
     static void process() {
@@ -67,3 +62,4 @@ public class A17266 {
     }
 
 }
+
