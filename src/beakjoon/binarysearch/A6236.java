@@ -10,6 +10,7 @@ import java.util.StringTokenizer;
 public class A6236 {
 
     static int n, m;
+    static int max = Integer.MIN_VALUE;
     static int[] arr;
 
     static void input() throws IOException {
@@ -18,8 +19,10 @@ public class A6236 {
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
         arr = new int[n + 1];
-        for (int i = 1; i <= n; i++)
+        for (int i = 1; i <= n; i++) {
             arr[i] = Integer.parseInt(br.readLine());
+            max = Math.max(max, arr[i]);
+        }
     }
 
     static boolean check(int l) {
@@ -38,9 +41,8 @@ public class A6236 {
     }
 
     static void process() {
-        Arrays.sort(arr, 1, n + 1);
-        int l = arr[1];
-        int r = arr[n] * m;
+        int l = max;
+        int r = max * m;
         int answer = 0;
 
         while (l <= r) {
