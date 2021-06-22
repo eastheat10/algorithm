@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 탈출
 class A3055 {
 
     static int r, c;
