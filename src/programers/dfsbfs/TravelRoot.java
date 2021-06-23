@@ -1,66 +1,42 @@
 package programers.dfsbfs;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 
 // 여행경로
 public class TravelRoot {
 
-    static String[] answer;
-    static int count = 0;
-    static HashMap<String, ArrayList<String>> hm;
-    static HashMap<String, Boolean> visit = new HashMap<>();
+    static boolean[] visit;
     static ArrayList<String> result = new ArrayList<>();
 
-    static HashMap<String, ArrayList<String>> input(String[][] tickets){
-        HashMap<String, ArrayList<String>> hm = new HashMap<>();
-        for (int i = 0; i < tickets.length; i++) {
-            String s1 = tickets[i][0];
-            String s2 = tickets[i][1];
-            if (!hm.containsKey(tickets[i][0])) {
-                ArrayList<String> list = new ArrayList<>();
-                list.add(s2);
-                hm.put(s1, list);
-            } else {
-                hm.get(s1).add(s2);
-            }
-            visit.put(s1, visit.getOrDefault(s1, false));
-            visit.put(s2, visit.getOrDefault(s2, false));
-        }
-        return hm;
-    }
-
     public static String[] solution(String[][] tickets) {
-        hm = input(tickets);
-        answer = new String[visit.size()];
+        visit = new boolean[tickets.length];
 
-        dfs("ICN");
+        dfs(0,"ICN", "ICN", tickets);
 
-        return answer;
+        result.sort((s1, s2) -> s1.compareTo(s2));
+
+        return result.get(0).split(" ");
     }
 
-    static void dfs(String airport) {
-        visit.put(airport, true);
-        result.add(airport);
-        answer[count++] = airport;
-
-        ArrayList<String> list = hm.get(airport);
-
-        if (list != null) {
-            if (list.size() > 1)
-                list.sort((o1, o2) -> o1.compareTo(o2));
-            for (String s : list) {
-                if (count < visit.size()) {
-                    dfs(s);
-                }
+    static void dfs(int count, String airport, String s, String[][] tickets) {
+        if (count == tickets.length) {
+            result.add(s);
+            return;
+        }
+        for (int i = 0; i < tickets.length; i++) {
+            if (!visit[i] && airport.equals(tickets[i][0])) {
+                visit[i] = true;
+                dfs(count + 1, tickets[i][1], s + " " + tickets[i][1], tickets);
+                visit[i] = false;
             }
         }
     }
 
     public static void main(String[] args) {
-//        for (String s : solution(new String[][]{{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}})) {
-//            System.out.print(s + " ");
-//        }
+        for (String s : solution(new String[][]{{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}})) {
+            System.out.print(s + " ");
+        }
+        System.out.println();
         for (String s : solution(new String[][]{{"ICN", "SFO"}, {"ICN", "ATL"}, {"SFO", "ATL"}, {"ATL", "ICN"}, {"ATL", "SFO"}})) {
             System.out.print(s + " ");
         }
