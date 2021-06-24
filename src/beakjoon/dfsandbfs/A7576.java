@@ -42,7 +42,9 @@ public class A7576 {
                 dist[i][j] = -1;
                 if (arr[i][j] == 1) {
                     q.offer(new int[]{i, j});
+                    dist[i][j] = 0;
                     visit[i][j] = true;
+                    max = 0;
                 }
             }
         }
@@ -56,7 +58,7 @@ public class A7576 {
                 int nx = x + dir[i][0];
                 int ny = y + dir[i][1];
 
-                if (nx < 1 && nx > n && ny < 1 && ny > m) continue;
+                if (nx < 1 || nx > n || ny < 1 || ny > m) continue;
                 if (visit[nx][ny]) continue;
                 if (arr[nx][ny] == -1) continue;
                 q.offer(new int[]{nx, ny});

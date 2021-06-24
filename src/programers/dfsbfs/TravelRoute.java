@@ -3,7 +3,7 @@ package programers.dfsbfs;
 import java.util.ArrayList;
 
 // 여행경로
-public class TravelRoot {
+public class TravelRoute {
 
     static boolean[] visit;
     static ArrayList<String> result = new ArrayList<>();

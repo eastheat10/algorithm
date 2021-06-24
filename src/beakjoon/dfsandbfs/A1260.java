@@ -1,4 +1,4 @@
-package beakjoon.stage23;
+package beakjoon.dfsandbfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
