@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+// 1, 2, 3 더하기 6
 public class A15991 {
 
     public static void main(String[] args) throws IOException {
