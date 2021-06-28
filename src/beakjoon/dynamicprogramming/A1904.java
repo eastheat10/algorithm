@@ -1,4 +1,4 @@
-package beakjoon.dynamicprogramming1;
+package beakjoon.dynamicprogramming;
 
 import java.io.*;
 import java.util.Arrays;
