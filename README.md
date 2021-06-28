@@ -131,7 +131,11 @@
     * [[210305] 1003번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A1003.java) : [피보나치 함수](https://www.acmicpc.net/problem/1003)
     * [[210319] 9184번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A9184.java) : [신나는 함수 실행](https://www.acmicpc.net/problem/9184)
     * [[210319] 9104번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A9104.java) : [01타일](https://www.acmicpc.net/problem/9104)
-    * [[210320] 9461번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A9461.java) : [파도반 수열]((https://www.acmicpc.net/problem/9461))
+    * [[210320] 9461번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A9461.java) : [파도반 수열](https://www.acmicpc.net/problem/9461)
+    * [[210628] 11726번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11726.java) : [2 x n 타일링](https://www.acmicpc.net/problem/11726)
+    * [[210628] 15988번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A15988.java) : [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
+    * [[210628] 15991번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A15991.java) : [1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991)
+    * [[210629] 1932번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A1932.java) : [정수 삼각형](https://www.acmicpc.net/problem/1932)
 
 ---
 
