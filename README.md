@@ -136,6 +136,7 @@
     * [[210628] 15988번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A15988.java) : [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
     * [[210628] 15991번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A15991.java) : [1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991)
     * [[210629] 1932번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A1932.java) : [정수 삼각형](https://www.acmicpc.net/problem/1932)
+    * [[210629] 1149번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A1149.java) : [RGB 거리](https://www.acmicpc.net/problem/1149)
 
 ---
 
