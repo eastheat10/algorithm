@@ -33,7 +33,9 @@ public class A11053 {
                 }
             }
         }
+
         System.out.println(Arrays.stream(dp).max().getAsInt());
+        
     }
 
     static int dp(int k) {
