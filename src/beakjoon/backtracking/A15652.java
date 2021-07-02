@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // N과 M (4)
+// 중복 조합
 public class A15652 {
     static StringBuilder sb = new StringBuilder();
     static int n, m;

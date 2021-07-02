@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // N과 M (3)
+// 중복 순열
 public class A15651 {
 
     static StringBuilder sb = new StringBuilder();

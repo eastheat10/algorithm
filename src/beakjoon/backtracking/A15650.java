@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // N과 M (2)
+// 조합
 public class A15650 {
 
     static StringBuilder sb = new StringBuilder();

@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // N과 M (1)
+// 순열
 public class A15649 {
 
     public static int n, m;
