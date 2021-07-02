@@ -1,4 +1,4 @@
-package beakjoon.stage2;
+package beakjoon.condition;
 
 // 사분면 고르기
 

@@ -1,4 +1,4 @@
-package beakjoon.stage16;
+package beakjoon.numbertheoryandcombinatorics;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -52,8 +52,11 @@
 	* [1157번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A1157.java) : 단어공부
 	* [2908번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A2908.java) : 상수
 	* [5622번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A5622.java) : 다이얼
-	*  [[210107] 2941번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A2941.java) : 크로아티아 알파벳
-	* [[210107] 1316번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A1316.java) : 그룹 단어 체커
+	*  [[210107] 2941번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A2941.java) : [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
+	* [[210107] 1316번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A1316.java) : [그룹 단어 체커](https://www.acmicpc.net/problem/1316)
+	* [[210701] 11718번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A11718.java) : [그대로 출력하기](https://www.acmicpc.net/problem/11718)
+	* [[210701] 11721번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A11721.java) : [열 개씩 끊어서 출력하기](https://www.acmicpc.net/problem/11721)
+	* [[210701] 10808번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A10808.java) : [알파벳 개수](https://www.acmicpc.net/problem/10808)
 - - - -
 8.  **기본 수학 1**
 	* [[201225] 1712번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/basicmath1/A1712.java) : 손익분기점
@@ -116,13 +119,28 @@
 ---
 
 13. **백트래킹**
-    * [[210311] 15649번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A15649.java) : [N과 M(1)](https://www.acmicpc.net/problem/15649)
+    * [[210311] 15649번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A15649.java) : [N과 M(1)](https://www.acmicpc.net/problem/15649) 
+
+      > 순열
+
     * [[210312] 15650번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A15650.java) : [N과 M(2)](https://www.acmicpc.net/problem/15650)
+
+      > 조합
+
     * [[210312] 15651번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A15651.java) : [N과 M(3)](https://www.acmicpc.net/problem/15651)
+
+      > 중복순열 
+
     * [[210312] 15652번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A15652.java) : [N과 M(4)](https://www.acmicpc.net/problem/15652)
+
+      > 중복조합
+
     * [[210608] 15663번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A15663.java) : [N과 M(9)](https://www.acmicpc.net/problem/15663)
+
     * [[210315] 9663번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A9663.java) : [N-Queen](https://www.acmicpc.net/problem/9663)
+
     * [[210516] 14888번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A9663.java) : [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+
     * [[210609] 1759번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A1759.java) : [암호 만들기](https://www.acmicpc.net/problem/1759)
 
 ---
@@ -137,6 +155,9 @@
     * [[210628] 15991번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A15991.java) : [1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991)
     * [[210629] 1932번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A1932.java) : [정수 삼각형](https://www.acmicpc.net/problem/1932)
     * [[210629] 1149번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A1149.java) : [RGB 거리](https://www.acmicpc.net/problem/1149)
+    * [[210630] 11053번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11053.java) : [가장 긴 증가하는 수열 1](https://www.acmicpc.net/problem/11053)
+    * [[210630] 11057번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11057.java) : [오르막 수](https://www.acmicpc.net/problem/11057)
+    * [[210701] 11052번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11052.java) : [카드 구매하기](https://www.acmicpc.net/problem/11052)
 
 ---
 
@@ -149,14 +170,15 @@
 ---
 
 16. **정수론 및 조합론**
-    * [[210220] 5086번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A5086.java): 배수와 약수
-    * [[210220] 1037번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A1037.java): 약수
-    * [[210220] 2609번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A2609.java): 최대공약수와 최소공배수
-    * [[210220] 1934번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A1934.java): 최소공배수
-    * [[210220] 3036번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A3036.java): 링
-    * [[210220] 11050번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A11050.java): 이항계수
-    * [[210313] 1676번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A1676.java): 팩토리얼 0의 개수
-    * [[210524] 11051번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A11051.java): 이항계수2
+    * [[210220] 5086번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A5086.java): [배수와 약수](https://www.acmicpc.net/problem/5086)
+    * [[210220] 1037번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A1037.java): [약수](https://www.acmicpc.net/problem/1037)
+    * [[210220] 2609번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A2609.java): [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+    * [[210220] 1934번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A1934.java): [최소공배수](https://www.acmicpc.net/problem/1934)
+    * [[210220] 3036번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A3036.java): [링](https://www.acmicpc.net/problem/3036)
+    * [[210220] 11050번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A11050.java): [이항계수](https://www.acmicpc.net/problem/11050)
+    * [[210313] 1676번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A1676.java): [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
+    * [[210524] 11051번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A11051.java): [이항계수2](https://www.acmicpc.net/problem/11051)
+    * [[210701] 9375번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/numbertheoryandcombinatorics/A9375.java): [패션왕 신혜빈](https://www.acmicpc.net/problem/9375)
 
 ---
 
@@ -242,17 +264,17 @@
 ---
 
 * **해시**
-  * [[210321] 완주하지 못한 선수](https://github.com/eastheat10/algorithm/blob/master/src/programers/hash/Marathon.java)
-  * [[210425] 전화번호 목록](https://github.com/eastheat10/algorithm/blob/master/src/programers/hash/Phone_book.java)
-  * [[210425] 위장](https://github.com/eastheat10/algorithm/blob/master/src/programers/hash/Camouflage.java)
-  * [[210427] 베스트 앨범](https://github.com/eastheat10/algorithm/blob/master/src/programers/hash/BestAlbum.java)
+  * [[210321] 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/hash/Marathon.java)
+  * [[210425] 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/hash/Phone_book.java)
+  * [[210425] 위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/hash/Camouflage.java)
+  * [[210427] 베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/hash/BestAlbum.java)
 
 ---
 
 * **정렬**
-  * [[210420] K 번째 수](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/KthNumber.java)
-  * [[210420] 가장 큰 수](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/BiggestNumber.java)
-  * [[210420] H-Index](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/HIndex.java)
+  * [[210420] K 번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/KthNumber.java)
+  * [[210420] 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/BiggestNumber.java)
+  * [[210420] H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/sort/HIndex.java)
 
 ---
 
@@ -264,10 +286,10 @@
 ---
 
 * **스택 / 큐** 
-  * [[210422] 주식 가격](https://github.com/eastheat10/algorithm/blob/master/src/programers/stackAndQueue/StockPrice.java)
-  * [[210422] 다리를 지나는 트럭](https://github.com/eastheat10/algorithm/blob/master/src/programers/stackAndQueue/Truck.java)
-  * [[210428] 기능개발](https://github.com/eastheat10/algorithm/blob/master/src/programers/stackAndQueue/Develop.java)
-  * [[210428] 프린터](https://github.com/eastheat10/algorithm/blob/master/src/programers/stackAndQueue/Print.java)
+  * [[210422] 주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/stackAndQueue/StockPrice.java)
+  * [[210422] 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/stackAndQueue/Truck.java)
+  * [[210428] 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/stackAndQueue/Develop.java)
+  * [[210428] 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/stackAndQueue/Print.java)
 
 ---
 
@@ -303,3 +325,7 @@
   * [[210624] 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/dfsbfs/IntegerTriangle.java)
   * [[210624] 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/dfsbfs/SchoolRoad.java)
 
+---
+
+* **2020 KAKAO BLIND RECRUITMENT**
+  * [[210702] 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/kakao/StringZip.java)

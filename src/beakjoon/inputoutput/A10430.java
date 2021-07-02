@@ -1,4 +1,4 @@
-package beakjoon.stage1;
+package beakjoon.inputoutput;
 
 //(A+B)%C는 ((A%C) + (B%C))%C 와 같을까?
 //

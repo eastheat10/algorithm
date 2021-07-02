@@ -1,4 +1,4 @@
-package beakjoon.stage1;
+package beakjoon.inputoutput;
 
 //세자리 수 곱셈
 

@@ -1,5 +1,4 @@
-package beakjoon.stage16;
-
+package beakjoon.numbertheoryandcombinatorics;
 
 import java.io.*;
 import java.util.StringTokenizer;
