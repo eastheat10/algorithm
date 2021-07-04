@@ -162,10 +162,12 @@
 ---
 
 15. **그리디 알고리즘**
-    * [[210304] 11047번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A11047.java) : 동전 0
-    * [[210304] 11399번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A11399.java) : ATM
-    * [[210305] 13305번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A11399.java) : 주유소
-    * [[210322] 4796번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A4796.java) : 캠핑
+    * [[210304] 11047번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A11047.java) : [동전 0](https://www.acmicpc.net/problem/11047)
+    * [[210304] 11399번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A11399.java) : [ATM](https://www.acmicpc.net/problem/11399)
+    * [[210305] 13305번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A11399.java) : [주유소](https://www.acmicpc.net/problem/13305)
+    * [[210322] 4796번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A4796.java) : [캠핑](https://www.acmicpc.net/problem/4796)
+    * [[210703] 1541번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1541.java) : [잃어버린 괄호](https://www.acmicpc.net/problem/1541)
+    * [[210704] 1931번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1931.java) : [회의실 배정](https://www.acmicpc.net/problem/1931)
 
 ---
 
