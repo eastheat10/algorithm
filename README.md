@@ -236,7 +236,8 @@
     * [[210602] 4963번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A4963.java): [섬의 개수](https://www.acmicpc.net/problem/4963)
     * [[210603] 3184번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A3184.java): [양](https://www.acmicpc.net/problem/3184)
     * [[210603] 2606번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A2606.java): [바이러스](https://www.acmicpc.net/problem/2606)
-    * [[210623] 7576번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A7576.java): [토마토](https://www.acmicpc.net/problem/7576)
+    * [[210623] 7576번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A7576.java): [토마토 (2차원)](https://www.acmicpc.net/problem/7576)
+    * [[210623] 7569번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A7569.java): [토마토 (3차원)](https://www.acmicpc.net/problem/7569)
 
 ---
 
