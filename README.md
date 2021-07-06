@@ -225,19 +225,36 @@
 
 23. **DFS와 BFS** (~ing)
     * [[210323] 1260번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A1260.java): [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+
     * [[210528] 2667번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A2667.java): [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)
+
     * [[210528] 2251번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A2251.java): [물통](https://www.acmicpc.net/problem/2251)
+
     * [[210529] 14502번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A14502.java): [연구소](https://www.acmicpc.net/problem/14502)
+
     * [[210530] 2178번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A2178.java): [미로 탐색](https://www.acmicpc.net/problem/2178)
+
     * [[210531] 1697번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A1697.java): [숨바꼭질](https://www.acmicpc.net/problem/1697)
+
     * [[210531] 3055번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A3055.java): [탈출](https://www.acmicpc.net/problem/3055)
+
     * [[210602] 1012번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A3055.java): [유기농 배추](https://www.acmicpc.net/problem/1012)
+
     * [[210602] 11724번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A11724.java): [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
+
     * [[210602] 4963번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A4963.java): [섬의 개수](https://www.acmicpc.net/problem/4963)
+
     * [[210603] 3184번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A3184.java): [양](https://www.acmicpc.net/problem/3184)
+
     * [[210603] 2606번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A2606.java): [바이러스](https://www.acmicpc.net/problem/2606)
+
     * [[210623] 7576번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A7576.java): [토마토 (2차원)](https://www.acmicpc.net/problem/7576)
-    * [[210623] 7569번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A7569.java): [토마토 (3차원)](https://www.acmicpc.net/problem/7569)
+
+    * [[210705] 7569번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A7569.java): [토마토 (3차원)](https://www.acmicpc.net/problem/7569)
+
+    * [[210706] 2206번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A2206.java): [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+
+      > [시간초과](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/AA2206.java)
 
 ---
 
