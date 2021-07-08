@@ -57,6 +57,7 @@
 	* [[210701] 11718번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A11718.java) : [그대로 출력하기](https://www.acmicpc.net/problem/11718)
 	* [[210701] 11721번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A11721.java) : [열 개씩 끊어서 출력하기](https://www.acmicpc.net/problem/11721)
 	* [[210701] 10808번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A10808.java) : [알파벳 개수](https://www.acmicpc.net/problem/10808)
+	* [[210708] 1062번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A1062.java) : [저항](https://www.acmicpc.net/problem/1062)
 - - - -
 8.  **기본 수학 1**
 	* [[201225] 1712번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/basicmath1/A1712.java) : 손익분기점
@@ -85,7 +86,7 @@
 
 ---
 
-10. **재귀**(finish)
+10. **재귀**
     * [[210107] 10872번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/recursion/A10872.java) : 팩토리얼
     * [[210107] 10870번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/recursion/A10870.java) : 피보나치 수 5
     * [[210122] 11729번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/recursion/A11729.java) : 하노이 탑
@@ -93,28 +94,30 @@
 
 ---
 
-11. **브루트 포스**(~ing)
-    * [[210122] 2798번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A2798.java) : 블랙잭
-    * [[210122] 2231번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A2231.java) : 분해합
-    * [[210124] 7568번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A7568.java) : 덩치
-    * [[210124] 1436번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A1436.java) : 영화감독 슘
+11. **브루트 포스**
+    * [[210122] 2798번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A2798.java) : [블랙잭](https://www.acmicpc.net/problem/2789)
+    * [[210122] 2231번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A2231.java) : [분해합](https://www.acmicpc.net/problem/2231)
+    * [[210124] 7568번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A7568.java) : [덩치](https://www.acmicpc.net/problem/7568)
+    * [[210124] 1436번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A1436.java) : [영화감독 슘](https://www.acmicpc.net/problem/1436)
+    * [[210708] 1018번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A1018.java) : [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 
 ---
 
 12. **정렬**
-    * [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A2750.java) : 수 정렬하기 1 (삽입정렬, 버블정렬)	
-    * [[210124] 2751번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A2751.java) : 수 정렬하기 2 (메소드 활용)
-    * [[210125] 10989번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A10989.java) : 수 정렬하기 3 (계수정렬)
-    * [[210319] 2108번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A2108.java) : 통계학
-    * [[210125] 1427번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A1427.java) : 소트 인사이드
-    * [[210127] 11650번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A11650.java) : 좌표 정렬하기
-    * [[210127] 11651번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A11651.java) : 좌표 정렬하기2
-    * [[210224] 1181번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A1181.java) : 단어 정렬
-    * [[210305] 10814번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A10814.java) : 나이순 정렬
+    * [[210124] 2750번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A2750.java) : [수 정렬하기 1 (삽입정렬, 버블정렬)](https://www.acmicpc.net/problem/2750)	
+    * [[210124] 2751번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A2751.java) : [수 정렬하기 2 (메소드 활용)](https://www.acmicpc.net/problem/2751)
+    * [[210125] 10989번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A10989.java) : [수 정렬하기 3 (계수정렬)](https://www.acmicpc.net/problem/10989)
+    * [[210319] 2108번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A2108.java) : [통계학](https://www.acmicpc.net/problem/2108)
+    * [[210125] 1427번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A1427.java) : [소트 인사이드](https://www.acmicpc.net/problem/1427)
+    * [[210127] 11650번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A11650.java) : [좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+    * [[210127] 11651번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A11651.java) : [좌표 정렬하기2](https://www.acmicpc.net/problem/11651)
+    * [[210224] 1181번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A1181.java) : [단어 정렬](https://www.acmicpc.net/problem/1181)
+    * [[210305] 10814번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A10814.java) : [나이순 정렬](https://www.acmicpc.net/problem/10814)
     * [[210602] 10825번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A10825.java) : [국영수](https://www.acmicpc.net/problem/10825)
     * [[210603] 11652번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A11652.java) : [카드](https://www.acmicpc.net/problem/11652)
     * [[210606] 15970번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A15970.java) : [화살표 그리기](https://www.acmicpc.net/problem/15970)
     * [[210606] 20291번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A20291.java) : [파일 정리](https://www.acmicpc.net/problem/20291)
+    * [[210707] 18870번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A18870.java) : [좌표 압축](https://www.acmicpc.net/problem/18870)
 
 ---
 
@@ -142,6 +145,8 @@
     * [[210516] 14888번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A9663.java) : [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 
     * [[210609] 1759번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A1759.java) : [암호 만들기](https://www.acmicpc.net/problem/1759)
+    
+    * [[210708] 1062번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A1062.java) : [가르침](https://www.acmicpc.net/problem/1062)
 
 ---
 
@@ -158,6 +163,7 @@
     * [[210630] 11053번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11053.java) : [가장 긴 증가하는 수열 1](https://www.acmicpc.net/problem/11053)
     * [[210630] 11057번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11057.java) : [오르막 수](https://www.acmicpc.net/problem/11057)
     * [[210701] 11052번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11052.java) : [카드 구매하기](https://www.acmicpc.net/problem/11052)
+    * [[210708] 12865번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A12865.java) : [평범한 배낭](https://www.acmicpc.net/problem/12865)
 
 ---
 
@@ -261,17 +267,17 @@
 ---
 
 26. **투 포인터**
-    * [[210521] 2470번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2470.java): 두 용액
-    *  [[210521] 1806번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A1806.java): 부분합
-    *  [[210522] 13144번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A13144.java): List of unique number
-    *  [[210522] 1253번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A1253.java): 좋다
-    *  [[210523] 16472번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A16472.java): 고냥이 
-    *  [[210524] 2003번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2003.java): 수들의 합2
-    *  [[210601] 3237번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A3237.java): 두 수의 합
-    *  [[210601] 2559번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2559.java): 수열
-    *  [[210601] 15565번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A15565.java): 귀여운 라이언
-    *  [[210601] 11728번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A11728.java): 배열 합치기
-    *  [[210601] 2230번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2230.java): 수들의 합
+    * [[210521] 2470번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2470.java): [두 용액](https://www.acmicpc.net/problem/2470)
+    *  [[210521] 1806번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A1806.java): [부분합](https://www.acmicpc.net/problem/1806)
+    *  [[210522] 13144번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A13144.java): [List of unique number](https://www.acmicpc.net/problem/13144)
+    *  [[210522] 1253번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A1253.java): [좋다](https://www.acmicpc.net/problem/1253)
+    *  [[210523] 16472번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A16472.java): [고냥이](https://www.acmicpc.net/problem/16472)
+    *  [[210524] 2003번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2003.java): [수들의 합2](https://www.acmicpc.net/problem/2003)
+    *  [[210601] 3237번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A3237.java): [두 수의 합](https://www.acmicpc.net/problem/3237)
+    *  [[210601] 2559번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2559.java): [수열](https://www.acmicpc.net/problem/2559)
+    *  [[210601] 15565번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A15565.java): [귀여운 라이언](https://www.acmicpc.net/problem/15565)
+    *  [[210601] 11728번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A11728.java): [배열 합치기](https://www.acmicpc.net/problem/11728)
+    *  [[210601] 2230번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2230.java): [수들의 합](https://www.acmicpc.net/problem/2230)
 
 ---
 
