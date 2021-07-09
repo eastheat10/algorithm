@@ -174,6 +174,7 @@
     * [[210322] 4796번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A4796.java) : [캠핑](https://www.acmicpc.net/problem/4796)
     * [[210703] 1541번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1541.java) : [잃어버린 괄호](https://www.acmicpc.net/problem/1541)
     * [[210704] 1931번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1931.java) : [회의실 배정](https://www.acmicpc.net/problem/1931)
+    * [[210709] 1092번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1092.java) : [배](https://www.acmicpc.net/problem/1092)
 
 ---
 
@@ -277,7 +278,7 @@
     *  [[210601] 2559번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2559.java): [수열](https://www.acmicpc.net/problem/2559)
     *  [[210601] 15565번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A15565.java): [귀여운 라이언](https://www.acmicpc.net/problem/15565)
     *  [[210601] 11728번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A11728.java): [배열 합치기](https://www.acmicpc.net/problem/11728)
-    *  [[210601] 2230번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2230.java): [수들의 합](https://www.acmicpc.net/problem/2230)
+    *  [[210601] 2230번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2230.java): [수들의 합](https://www.acmicpc.net/problem/2230 )
 
 ---
 
