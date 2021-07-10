@@ -164,6 +164,7 @@
     * [[210630] 11057번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11057.java) : [오르막 수](https://www.acmicpc.net/problem/11057)
     * [[210701] 11052번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11052.java) : [카드 구매하기](https://www.acmicpc.net/problem/11052)
     * [[210708] 12865번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A12865.java) : [평범한 배낭](https://www.acmicpc.net/problem/12865)
+    * [[210710] 9251번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A9251.java) : [LCS(Longest Common Subsequence, 최장 공통 부분 수열)](https://www.acmicpc.net/problem/9251)
 
 ---
 
