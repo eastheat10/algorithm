@@ -279,7 +279,8 @@
     *  [[210601] 2559번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2559.java): [수열](https://www.acmicpc.net/problem/2559)
     *  [[210601] 15565번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A15565.java): [귀여운 라이언](https://www.acmicpc.net/problem/15565)
     *  [[210601] 11728번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A11728.java): [배열 합치기](https://www.acmicpc.net/problem/11728)
-    *  [[210601] 2230번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2230.java): [수들의 합](https://www.acmicpc.net/problem/2230 )
+    *  [[210601] 2230번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2230.java): [수들의 합](https://www.acmicpc.net/problem/2230)
+    *  [[210711] 1644번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A1644.java): [소수의 연속합](https://www.acmicpc.net/problem/1644)
 
 ---
 
