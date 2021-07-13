@@ -50,12 +50,12 @@
 	* [[210112] 1065번 ](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/function/A4673.java): 한수
 - - - -
 7. **문자열**
-	* [11720번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A11720.java) : 숫자의 합
-	* [10809번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A10809.java) : 알파벳 찾기
-	* [2675번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A2675.java) : 문자열 반복 
-	* [1157번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A1157.java) : 단어공부
-	* [2908번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A2908.java) : 상수
-	* [5622번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A5622.java) : 다이얼
+	* [11720번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A11720.java) : [숫자의 합](https://www.acmicpc.net/problem/11720)
+	* [10809번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A10809.java) : [알파벳 찾기](https://www.acmicpc.net/problem/10809)
+	* [2675번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A2675.java) : [문자열 반복](https://www.acmicpc.net/problem/2675)
+	* [1157번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A1157.java) : [단어공부](https://www.acmicpc.net/problem/1157)
+	* [2908번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A2908.java) : [상수](https://www.acmicpc.net/problem/2908)
+	* [5622번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A5622.java) : [다이얼](https://www.acmicpc.net/problem/5622)
 	*  [[210107] 2941번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A2941.java) : [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
 	* [[210107] 1316번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A1316.java) : [그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 	* [[210701] 11718번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/string/A11718.java) : [그대로 출력하기](https://www.acmicpc.net/problem/11718)
@@ -170,6 +170,7 @@
     * [[210708] 12865번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A12865.java) : [평범한 배낭](https://www.acmicpc.net/problem/12865)
     * [[210710] 9251번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A9251.java) : [LCS(Longest Common Subsequence, 최장 공통 부분 수열)](https://www.acmicpc.net/problem/9251)
     * [[2107012] 1463번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A1463.java) : [1로 만들기](https://www.acmicpc.net/problem/1463)
+    * [[2107013] 10844번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A10844.java) : [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 
 ---
 
@@ -198,22 +199,21 @@
 ---
 
 17. **스택**
-    * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A10828.java): 스택
-    * [[210201] 10773번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A10773.java): 제로	
-    * [[210228] 9012번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A9012.java): 괄호
-    * [[210301] 4949번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A4949.java): 균형잡힌 세상
-    * [[210326] 1874번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A1874.java): 스택 수열
-    * [[210326] 17298번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A17298.java): 오큰수
-
-
+    * [[210109] 10828번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A10828.java): [스택](https://www.acmicpc.net/problem/10828)
+    * [[210201] 10773번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A10773.java): [제로](https://www.acmicpc.net/problem/10773)
+    * [[210228] 9012번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A9012.java): [괄호](https://www.acmicpc.net/problem/9012)
+    * [[210301] 4949번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A4949.java): [균형잡힌 세상](https://www.acmicpc.net/problem/4949)
+    * [[210326] 1874번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A1874.java): [스택 수열](https://www.acmicpc.net/problem/1874)
+    * [[210326] 17298번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/stack/A17298.java): [오큰수](https://www.acmicpc.net/problem/17298)
 
 ---
 
 18. **큐, 덱**
-    * [[210216] 18258번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/queue/A18258.java): 큐2
-    * [[210217] 2164번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/queue/A18258.java): 카드2
-    * [[210217] 11866번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/queue/A11866.java): 요세푸스 문제0
-    * [[210327] 1966번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/queue/A1966.java): 프린터 큐
+    * [[210216] 18258번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/queue/A18258.java): [큐2](https://www.acmicpc.net/problem/18258)
+    * [[210217] 2164번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/queue/A18258.java): [카드2](https://www.acmicpc.net/problem/2164)
+    * [[210217] 11866번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/queue/A11866.java): [요세푸스 문제0](https://www.acmicpc.net/problem/11866)
+    * [[210327] 1966번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/queue/A1966.java): [프린터 큐](https://www.acmicpc.net/problem/1966)
+    * [[210713] 1158번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/queue/A1158.java): [요세푸스 문제](https://www.acmicpc.net/problem/1158)
 
 ---
 
