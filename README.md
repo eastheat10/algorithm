@@ -104,6 +104,7 @@
     * [[210124] 7568번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A7568.java) : [덩치](https://www.acmicpc.net/problem/7568)
     * [[210124] 1436번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A1436.java) : [영화감독 슘](https://www.acmicpc.net/problem/1436)
     * [[210708] 1018번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A1018.java) : [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+    * [[210714] 10974번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A10974.java) : [모든 순열](https://www.acmicpc.net/problem/10974)
 
 ---
 
@@ -182,6 +183,7 @@
     * [[210703] 1541번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1541.java) : [잃어버린 괄호](https://www.acmicpc.net/problem/1541)
     * [[210704] 1931번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1931.java) : [회의실 배정](https://www.acmicpc.net/problem/1931)
     * [[210709] 1092번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1092.java) : [배](https://www.acmicpc.net/problem/1092)
+    * [[210714] 1946번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1946.java) : [신입사원](https://www.acmicpc.net/problem/1946)
 
 ---
 
@@ -271,6 +273,8 @@
       > [시간초과](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/AA2206.java)
     
     * [[210707] 1707번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A1707.java): [이분 그래프](https://www.acmicpc.net/problem/1707)
+    
+    * [[210715] 10026번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A10026.java): [적록색약](https://www.acmicpc.net/problem/10026)
 
 ---
 
@@ -287,12 +291,19 @@
     *  [[210601] 11728번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A11728.java): [배열 합치기](https://www.acmicpc.net/problem/11728)
     *  [[210601] 2230번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A2230.java): [수들의 합](https://www.acmicpc.net/problem/2230)
     *  [[210711] 1644번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A1644.java): [소수의 연속합](https://www.acmicpc.net/problem/1644)
+    *  [[210716] 1450번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/twopointer/A1450.java): [냅색 문제](https://www.acmicpc.net/problem/1450)
 
 ---
 
 28. **트리** 
     * [[210605] 1068번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A1068.java): [트리](https://www.acmicpc.net/problem/1068)
     * [[210605] 11725번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A11725.java): [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+
+---
+
+29. **해시**
+    * [[210715] 10546번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/hash/A10546.java): [배부른 마라토너](https://www.acmicpc.net/problem/10546)
+    * [[210715] 17219번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/hash/A17219.java): [비밀번호 찾기](https://www.acmicpc.net/problem/17219)
 
 
 
