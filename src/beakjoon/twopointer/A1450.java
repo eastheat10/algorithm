@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-//
+// 냅색 문제
 public class A1450 {
 
     static int n, c, cnt = 0, idx = 0;
