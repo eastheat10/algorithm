@@ -152,6 +152,8 @@
     * [[210609] 1759번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A1759.java) : [암호 만들기](https://www.acmicpc.net/problem/1759)
     
     * [[210708] 1062번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A1062.java) : [가르침](https://www.acmicpc.net/problem/1062)
+    
+    * [[210718] 2580번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A2580.java) : [스도쿠](https://www.acmicpc.net/problem/2580)
 
 ---
 
