@@ -176,6 +176,7 @@
     * [[2107013] 10844번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A10844.java) : [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
     * [[2107017] 2156번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A2156.java) : [포도주 시식](https://www.acmicpc.net/problem/2156)
     * [[2107019] 11054번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11054.java) : [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+    * [[2107025] 2011번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A2011.java) : [암호 코드](https://www.acmicpc.net/problem/2011)
 
 ---
 
