@@ -42,7 +42,7 @@ public class A6236 {
 
     static void process() {
         int l = max;
-        int r = max * m;
+        int r = 1000000000;
         int answer = 0;
 
         while (l <= r) {
