@@ -238,7 +238,7 @@
     * [[210614] 17266번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/binarysearch/A17266.java): [어두운 굴다리](https://www.acmicpc.net/problem/17266)
     * [[210616] 1300번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/binarysearch/A1300.java): [K번째 수](https://www.acmicpc.net/problem/1300)
     * [[210619] 1637번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/binarysearch/A1637.java): [날카로운 눈](https://www.acmicpc.net/problem/1637)
-    * [[210620] 6236번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/binarysearch/A6236.java): [용돈 관리](https://www.acmicpc.net/problem/6236)
+    * [[210725] 6236번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/binarysearch/A6236.java): [용돈 관리](https://www.acmicpc.net/problem/6236)
     * [[210626] 12015번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/binarysearch/A12015.java): [가장 긴 증가하는 부분수열2](https://www.acmicpc.net/problem/12015)
 
 ---
@@ -303,6 +303,9 @@
 28. **트리** 
     * [[210605] 1068번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A1068.java): [트리](https://www.acmicpc.net/problem/1068)
     * [[210605] 11725번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A11725.java): [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+    * [210725] 1991번: [트리 순회](https://www.acmicpc.net/problem/11725)
+      * [Tree 클래스](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A1991.java)
+      * [배열](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A1991_2.java)
 
 ---
 
