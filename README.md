@@ -157,7 +157,7 @@
 
 ---
 
-14. **동적 계획법1**
+14. **동적 계획법**
     * [[210305] 1003번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A1003.java) : [피보나치 함수](https://www.acmicpc.net/problem/1003)
     * [[210319] 9184번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A9184.java) : [신나는 함수 실행](https://www.acmicpc.net/problem/9184)
     * [[210319] 9104번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A9104.java) : [01타일](https://www.acmicpc.net/problem/9104)
@@ -177,6 +177,7 @@
     * [[2107017] 2156번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A2156.java) : [포도주 시식](https://www.acmicpc.net/problem/2156)
     * [[2107019] 11054번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11054.java) : [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
     * [[2107025] 2011번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A2011.java) : [암호 코드](https://www.acmicpc.net/problem/2011)
+    * [[2107027] 11066번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11066.java) : [파일 합치기](https://www.acmicpc.net/problem/11066)
 
 ---
 
@@ -306,6 +307,7 @@
     * [210725] 1991번: [트리 순회](https://www.acmicpc.net/problem/11725)
       * [Tree 클래스](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A1991.java)
       * [배열](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A1991_2.java)
+    * [[210727] 2639번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A11725.java): [이진 검색 트리](https://www.acmicpc.net/problem/5639)
 
 ---
 
