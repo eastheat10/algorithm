@@ -181,6 +181,7 @@
     * [[2107028] 15681번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A15681.java) : [트리와 쿼리](https://www.acmicpc.net/problem/15681)
     * [[2107028] 1949번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A1949.java) : [우수 마을](https://www.acmicpc.net/problem/1949)
     * [[2107030] 15681번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A11066.java) : [연속합](https://www.acmicpc.net/problem/15681)
+    * [[2107031] 2565번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dynamicprogramming/A2565.java) : [전깃줄](https://www.acmicpc.net/problem/2565)
 
 ---
 
