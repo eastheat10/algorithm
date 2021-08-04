@@ -390,8 +390,9 @@
 ---
 
 * **동적계획법(Dynamic Programming)**
-  * [[210624] 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/dfsbfs/IntegerTriangle.java)
-  * [[210624] 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/dfsbfs/SchoolRoad.java)
+  * [[210624] 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/dp/IntegerTriangle.java)
+  * [[210624] 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/dp/SchoolRoad.java)
+  * [[210804] N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) - [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/dp/ToN.java)
 
 ---
 
