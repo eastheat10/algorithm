@@ -325,6 +325,11 @@
     * [[210724] 1753번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1753.java): [최단 경로](https://www.acmicpc.net/problem/1753)
     * [[210724] 1916번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1916.java): [최소비용 구하기](https://www.acmicpc.net/problem/1916)
 
+---
+
+31. **우선순위 큐**
+    * [[210804] 11279번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/prorityqueue/A11279.java): [최대 힙](https://www.acmicpc.net/problem/11279)
+
 
 
 ### 프로그래머스 알고리즘
