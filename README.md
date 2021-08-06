@@ -329,6 +329,7 @@
 
 31. **우선순위 큐**
     * [[210804] 11279번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/prorityqueue/A11279.java): [최대 힙](https://www.acmicpc.net/problem/11279)
+    * [[210804] 1927번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/prorityqueue/A1927.java): [최소 힙](https://www.acmicpc.net/problem/1927)
 
 
 
