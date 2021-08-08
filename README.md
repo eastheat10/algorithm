@@ -331,7 +331,10 @@
     * [[210804] 11279번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/prorityqueue/A11279.java): [최대 힙](https://www.acmicpc.net/problem/11279)
     * [[210804] 1927번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/prorityqueue/A1927.java): [최소 힙](https://www.acmicpc.net/problem/1927)
 
+---
 
+32. **위상정렬**
+    * [[210808] 2252번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A2252.java): [줄 세우기](https://www.acmicpc.net/problem/2252)
 
 ### 프로그래머스 알고리즘
 
