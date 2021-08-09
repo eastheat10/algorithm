@@ -335,6 +335,7 @@
 
 32. **위상정렬**
     * [[210808] 2252번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A2252.java): [줄 세우기](https://www.acmicpc.net/problem/2252)
+    * [[210809] 1005번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A1005.java): [ACM CRAFT](https://www.acmicpc.net/problem/1005)
 
 ### 프로그래머스 알고리즘
 
