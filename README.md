@@ -419,4 +419,5 @@
 
 * **위클리 챌린지**
   * [1주차: 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612): [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/weeklychallenge/First.java)
+  * [2주차](https://programmers.co.kr/learn/courses/30/lessons/83201): [소스코드](https://github.com/eastheat10/algorithm/blob/master/src/programers/weeklychallenge/Second.java)
 
