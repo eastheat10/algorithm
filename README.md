@@ -285,6 +285,10 @@
     * [[210707] 1707번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A1707.java): [이분 그래프](https://www.acmicpc.net/problem/1707)
     
     * [[210715] 10026번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A10026.java): [적록색약](https://www.acmicpc.net/problem/10026)
+    
+    * [[210828] 18404번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/18404.java): [현명한 나이트](https://www.acmicpc.net/problem/18404)
+    
+    * [[210830] 2468번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/2468.java): [안전영역](https://www.acmicpc.net/problem/2468)
 
 ---
 
@@ -312,6 +316,9 @@
       * [Tree 클래스](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A1991.java)
       * [배열](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A1991_2.java)
     * [[210727] 2639번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A11725.java): [이진 검색 트리](https://www.acmicpc.net/problem/5639)
+    * [[210902] 11437번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A11437.java): [LCA](https://www.acmicpc.net/problem/11437)
+    * [[210902] 3584번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A3584.java): [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)
+    * [[210904] 20364번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A20364.java): [부동산 다툼](https://www.acmicpc.net/problem/20364)
 
 ---
 
