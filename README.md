@@ -319,6 +319,8 @@
     * [[210902] 11437번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A11437.java): [LCA](https://www.acmicpc.net/problem/11437)
     * [[210902] 3584번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A3584.java): [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)
     * [[210904] 20364번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A20364.java): [부동산 다툼](https://www.acmicpc.net/problem/20364)
+    * [[210905] 1240번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A1240.java): [노드 사이의 거리](https://www.acmicpc.net/problem/1240)
+    * [[210905] 9489번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/tree/A9489.java): [사촌](https://www.acmicpc.net/problem/9489)
 
 ---
 
