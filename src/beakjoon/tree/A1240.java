@@ -68,7 +68,7 @@ public class A1240 {
         }
     }
 
-    static void process() {124
+    static void process() {
         StringBuilder sb = new StringBuilder();
         for (int i = 1; i <= m; i++) {
             result = 0;

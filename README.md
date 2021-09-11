@@ -346,6 +346,8 @@
     * [[210808] 2252번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A2252.java): [줄 세우기](https://www.acmicpc.net/problem/2252)
     * [[210809] 1005번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A1005.java): [ACM CRAFT](https://www.acmicpc.net/problem/1005)
     * [[210810] 2623번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A2623.java): [음악프로그램](https://www.acmicpc.net/problem/2623)
+    * [[210911] 9470번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A9470.java): [Strahler 순서](https://www.acmicpc.net/problem/9470)
+    * [[210911] 14676번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A14676.java): [영우는 사기꾼?](https://www.acmicpc.net/problem/14676)
 
 ### 프로그래머스 알고리즘
 
