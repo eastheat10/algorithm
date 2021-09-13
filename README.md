@@ -286,9 +286,11 @@
     
     * [[210715] 10026번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A10026.java): [적록색약](https://www.acmicpc.net/problem/10026)
     
-    * [[210828] 18404번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/18404.java): [현명한 나이트](https://www.acmicpc.net/problem/18404)
+    * [[210828] 18404번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A18404.java): [현명한 나이트](https://www.acmicpc.net/problem/18404)
     
-    * [[210830] 2468번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/2468.java): [안전영역](https://www.acmicpc.net/problem/2468)
+    * [[210830] 2468번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A2468.java): [안전영역](https://www.acmicpc.net/problem/2468)
+    
+    * [[210912] 1194번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A1194.java): [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194)
 
 ---
 
@@ -348,6 +350,8 @@
     * [[210810] 2623번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A2623.java): [음악프로그램](https://www.acmicpc.net/problem/2623)
     * [[210911] 9470번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A9470.java): [Strahler 순서](https://www.acmicpc.net/problem/9470)
     * [[210911] 14676번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A14676.java): [영우는 사기꾼?](https://www.acmicpc.net/problem/14676)
+    * [[210912] 2056번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A2056.java): [작업](https://www.acmicpc.net/problem/2056)
+    * [[210912] 2056번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A2056.java): [작업](https://www.acmicpc.net/problem/2056)
 
 ### 프로그래머스 알고리즘
 
