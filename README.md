@@ -291,6 +291,8 @@
     * [[210830] 2468번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A2468.java): [안전영역](https://www.acmicpc.net/problem/2468)
     
     * [[210912] 1194번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A1194.java): [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194)
+    
+    * [[211002] 1987번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A1987.java): [알파벳](https://www.acmicpc.net/problem/1987)
 
 ---
 
@@ -335,6 +337,7 @@
 30. **최단경로**
     * [[210724] 1753번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1753.java): [최단 경로](https://www.acmicpc.net/problem/1753)
     * [[210724] 1916번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1916.java): [최소비용 구하기](https://www.acmicpc.net/problem/1916)
+    * [[210922] 1504번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1504.java): [특정한 최단경로](https://www.acmicpc.net/problem/1504)
 
 ---
 
