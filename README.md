@@ -105,6 +105,7 @@
     * [[210124] 1436번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A1436.java) : [영화감독 슘](https://www.acmicpc.net/problem/1436)
     * [[210708] 1018번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A1018.java) : [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
     * [[210714] 10974번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A10974.java) : [모든 순열](https://www.acmicpc.net/problem/10974)
+    * [[211004] 2309번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A2309.java) : [일곱 난장이](https://www.acmicpc.net/problem/2309)
 
 ---
 
@@ -123,6 +124,7 @@
     * [[210606] 15970번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A15970.java) : [화살표 그리기](https://www.acmicpc.net/problem/15970)
     * [[210606] 20291번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A20291.java) : [파일 정리](https://www.acmicpc.net/problem/20291)
     * [[210707] 18870번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A18870.java) : [좌표 압축](https://www.acmicpc.net/problem/18870)
+    * [[211004] 1037번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A1037.java) : [약수](https://www.acmicpc.net/problem/1037)
 
 ---
 
@@ -154,6 +156,8 @@
     * [[210708] 1062번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A1062.java) : [가르침](https://www.acmicpc.net/problem/1062)
     
     * [[210718] 2580번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A2580.java) : [스도쿠](https://www.acmicpc.net/problem/2580)
+    
+    * [[211004] 14889번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/backtracking/A14889.java) : [스타트와 링크](https://www.acmicpc.net/problem/14889)
 
 ---
 
@@ -293,6 +297,8 @@
     * [[210912] 1194번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A1194.java): [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194)
     
     * [[211002] 1987번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A1987.java): [알파벳](https://www.acmicpc.net/problem/1987)
+    
+    * [[211004] 2583번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/dfsandbfs/A2583.java): [영역 구하기](https://www.acmicpc.net/problem/2583)
 
 ---
 
