@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-// 영역 구하기 
+// 영역 구하기 햐
 class Main {
 
     static int m, n, k;
