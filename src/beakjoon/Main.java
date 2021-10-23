@@ -1,25 +1,60 @@
-package beakjoon;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
-import java.io.*;
+public class Main {
+    static int N, T;
+    static FastReader scan = new FastReader();
+    static StringBuilder sb = new StringBuilder();
 
-class Main {
-	public static void main(String[] args) throws IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int count = 0;
-		for (int i = 0; i < 8; i++) {
-			String s = br.readLine();
-			for (int j = 0; j < 8; j++) {
-				if (i % 2 == 0 && j % 2 == 0) {
-					if (s.charAt(j) == 'F') {
-						count++;
-					}
-				}
-				if (i % 2 == 1 && j % 2 == 1) {
-					if (s.charAt(j) == 'F')
-						count++;
-				}
-			}
-		}
-		System.out.println(count);
-	}
+    public static void main(String[] args) {
+        input();
+        pro();
+    }
+
+    private static void pro() {
+        while (N-- > 0) {
+            T = scan.nextInt();
+            int index = 0;
+            while (T > 0) {
+                if (T % 2 == 1)
+                    sb.append(index + " ");
+                T = T / 2;
+                index++;
+            }
+            sb.append('\n');
+        }
+		System.out.println(sb);
+    }
+
+    private static void input() {
+
+        N = scan.nextInt();
+    }
+
+    static class FastReader {
+        StringTokenizer st;
+        BufferedReader br;
+
+        FastReader() {
+            br = new BufferedReader(new InputStreamReader(System.in));
+        }
+
+        String next() {
+            while (st == null || !st.hasMoreElements()) {
+                try {
+                    st = new StringTokenizer(br.readLine());
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+            return st.nextToken();
+        }
+
+        int nextInt() {
+            return Integer.parseInt(next());
+        }
+
+    }
 }
