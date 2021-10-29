@@ -366,13 +366,28 @@
 
 * [코딩테스트를 대비를 위한 백준 문제 추천](https://covenant.tistory.com/224?category=727170)
   * [[211023] 2501번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2501.java): [약수 구하기](https://www.acmicpc.net/problem/2501)
+  
   * [[211023] 3460번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/3460.java): [이진수](https://www.acmicpc.net/problem/3460)
+  
   * [[211023] 2693번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2693.java): [N번째 큰 수](https://www.acmicpc.net/problem/2693)
+  
   * [[211023] 2460번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2460.java): [지능형 기차2](https://www.acmicpc.net/problem/2460)
+  
   * [[211023] 1292번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A1292.java): [약수 구하기](https://www.acmicpc.net/problem/1292)
+  
   * [[211024] 2504번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2504.java): [괄호의 값](https://www.acmicpc.net/problem/2504)
+  
   * [[211024] 14719번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A14719.java): [빗물](https://www.acmicpc.net/problem/14719)
+  
   * [[211024] 1700번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A1700.java): [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
+  
+  * [[211029] 11098번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A11098.java): [첼시를 도와줘!](https://www.acmicpc.net/problem/11098)
+  
+  * [[211029] 5052번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A5052.java): [전화번호 목록](https://www.acmicpc.net/problem/5052)
+  
+    
+
+​		
 
 ### 프로그래머스 알고리즘
 
