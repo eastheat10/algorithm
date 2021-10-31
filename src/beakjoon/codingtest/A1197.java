@@ -9,7 +9,7 @@ class Main {
     static ArrayList<Node> list[];
     static class Node {
         int to, weight;
-        public Node (int to, weight) {
+        public Node (int to, int weight) {
             this.to = to;
             this.weight = weight;
         }
@@ -31,7 +31,7 @@ class Main {
             list[i] = new ArrayList<>();
 
         
-        for (int i = 0; i < k; i++) {
+        for (int i = 0; i < e; i++) {
             st = new StringTokenizer(br.readLine());
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());
@@ -41,12 +41,32 @@ class Main {
         }
     }
  
-    static long process() {
+    static long prim() {
         boolean[] visit = new boolean[v + 1];
-        PriorityQueue<Node> q = new PriorityQueue<>();
+        PriorityQueue<Node> pq = new PriorityQueue<>((i, j) -> i.weight - j.weight);
         pq.add(new Node(1, 0));
 
-        ling
+        long result = 0;
+        int count = 0;
+
+        while(!pq.isEmpty()) {
+            Node edge = pq.poll();
+
+            if(visit[edge.to]) continue;
+
+            result += edge.weight;
+            visit[edge.to] = true;
+
+            if (count + 1 == v) 
+                return result;
+
+            for (Node node : list[edge.to]) {
+                if (visit[node.to]) continue;
+                pq.add(node);
+            }
+        }
+
+        return result;
     }
 
 }
