@@ -32,6 +32,10 @@ class Main {
         m = Integer.parseInt(st.nextToken());
 
         area = new int[n + 1][m + 1];
+<<<<<<< HEAD
+=======
+        visit = new boolean[n + 1][m + 1];
+>>>>>>> 57addc685384abfa906347cb997e66717ea20fbf
 
         for (int i = 1; i <= n; i++) {
             st = new StringTokenizer(br.readLine());
