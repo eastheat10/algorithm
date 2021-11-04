@@ -366,53 +366,31 @@
 
 * [코딩테스트를 대비를 위한 백준 문제 추천](https://covenant.tistory.com/224?category=727170)
   * [[211023] 2501번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2501.java): [약수 구하기](https://www.acmicpc.net/problem/2501)
-  
   * [[211023] 3460번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/3460.java): [이진수](https://www.acmicpc.net/problem/3460)
-  
   * [[211023] 2693번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2693.java): [N번째 큰 수](https://www.acmicpc.net/problem/2693)
-  
   * [[211023] 2460번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2460.java): [지능형 기차2](https://www.acmicpc.net/problem/2460)
-  
   * [[211023] 1292번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A1292.java): [약수 구하기](https://www.acmicpc.net/problem/1292)
-  
   * [[211024] 2504번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2504.java): [괄호의 값](https://www.acmicpc.net/problem/2504)
-  
   * [[211024] 14719번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A14719.java): [빗물](https://www.acmicpc.net/problem/14719)
-  
   * [[211024] 1700번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A1700.java): [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
-  
   * [[211029] 11098번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A11098.java): [첼시를 도와줘!](https://www.acmicpc.net/problem/11098)
-  
   * [[211029] 5052번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A5052.java): [전화번호 목록](https://www.acmicpc.net/problem/5052)
-  
   * [[211030]](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/Network.java) // [프로그래머스 - 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
-  
   * [[211031] 1197번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A1197.java): [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
-  
   * [[211031] 16916번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A16916.java): [부분 문자열](https://www.acmicpc.net/problem/16916)
-  
   * [[211031] 2252번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2252.java): [줄 세우기](https://www.acmicpc.net/problem/2252)
-  
   * [[211101] 1789번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A1789.java): [수들의 합](https://www.acmicpc.net/problem/1789)
-  
   * [[211101] 3085번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A3085.java): [사탕 게임](https://www.acmicpc.net/problem/3085)
-  
   * [[211101] 2293번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2293.java): [동전1](https://www.acmicpc.net/problem/2293)
-  
   * [[211101] 2294번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2294.java): [동전2](https://www.acmicpc.net/problem/2294)
-  
   * [[211101] 2667번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2667.java): [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)
-<<<<<<< HEAD
-  
   * [[211103] 15683번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A15683.java): [감시](https://www.acmicpc.net/problem/15683)
-  
   * [[211103] 16236번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A16236.java): [아기 상어](https://www.acmicpc.net/problem/16236)
-  
   * [[211103] 9093번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A15683.java): [단어 뒤집기](https://www.acmicpc.net/problem/9093)
-=======
->>>>>>> 57addc685384abfa906347cb997e66717ea20fbf
-  
-    
+  * [[211104] 15686번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A15683.java): [치킨 배달](https://www.acmicpc.net/problem/15686)
+  * [[211104] 16234번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A16234.java): [인구 이동](https://www.acmicpc.net/problem/16234)
+
+​    
 
 ​		
 
