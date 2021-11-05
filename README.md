@@ -389,6 +389,9 @@
   * [[211103] 9093번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A15683.java): [단어 뒤집기](https://www.acmicpc.net/problem/9093)
   * [[211104] 15686번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A15683.java): [치킨 배달](https://www.acmicpc.net/problem/15686)
   * [[211104] 16234번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A16234.java): [인구 이동](https://www.acmicpc.net/problem/16234)
+  * [[211105] 3190번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A3190.java): [뱀](https://www.acmicpc.net/problem/3190)
+  * [[211105] 3048번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A3048.java): [개미](https://www.acmicpc.net/problem/3048)
+  * [[211105] 2980번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/codingtest/A2980.java): [도로와 신호등](https://www.acmicpc.net/problem/2980)
 
 ​    
 
