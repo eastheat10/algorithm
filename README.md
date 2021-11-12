@@ -125,6 +125,7 @@
     * [[210606] 20291번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A20291.java) : [파일 정리](https://www.acmicpc.net/problem/20291)
     * [[210707] 18870번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A18870.java) : [좌표 압축](https://www.acmicpc.net/problem/18870)
     * [[211004] 1037번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A1037.java) : [약수](https://www.acmicpc.net/problem/1037)
+    * [[211112] 8979번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/sort/A8979.java) : [올림픽](https://www.acmicpc.net/problem/8979)
 
 ---
 
