@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+// 올림픽
 class Main {
     static class Medal {
         int num;
