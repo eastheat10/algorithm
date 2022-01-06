@@ -199,6 +199,7 @@
     * [[210704] 1931번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1931.java) : [회의실 배정](https://www.acmicpc.net/problem/1931)
     * [[210709] 1092번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1092.java) : [배](https://www.acmicpc.net/problem/1092)
     * [[210714] 1946번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A1946.java) : [신입사원](https://www.acmicpc.net/problem/1946)
+    * [[220107] 2217번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/greedy/A2217.java) : [로프](https://www.acmicpc.net/problem/2217)
 
 ---
 
