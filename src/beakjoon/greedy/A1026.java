@@ -1,8 +1,10 @@
+package beakjoon.greedy;
+
 import java.util.*;
 import java.io.*;
 
 // 보물
-class Main {
+class A1026 {
 
     static int n;
     static Integer[] a, b;

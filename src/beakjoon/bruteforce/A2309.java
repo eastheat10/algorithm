@@ -1,3 +1,5 @@
+package beakjoon.bruteforce;
+
 import java.util.*;
 import java.io.*;
 

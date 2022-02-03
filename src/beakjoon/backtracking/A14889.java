@@ -1,8 +1,10 @@
+package beakjoon.backtracking;
+
 import java.io.*;
 import java.util.*;
 
 // 스타트와 링크
-class Main {
+class A14889 {
 
     static int n, min = Integer.MAX_VALUE;
     static int[][] arr;

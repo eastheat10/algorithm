@@ -1,3 +1,5 @@
+package beakjoon.dfsandbfs;
+
 import java.util.*;
 import java.io.*;
 

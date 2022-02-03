@@ -1,3 +1,5 @@
+package beakjoon.sort;
+
 import java.io.*;
 import java.util.*;
 

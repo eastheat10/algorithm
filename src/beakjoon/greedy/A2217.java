@@ -1,7 +1,9 @@
+package beakjoon.greedy;
+
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class A2217 {
 
 	static int n;
 	static ArrayList<Integer> ropes = new ArrayList<>();

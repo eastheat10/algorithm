@@ -1,8 +1,10 @@
+package beakjoon.dfsandbfs;
+
 import java.util.*;
 import java.io.*;
 
 // 영역 구하기 햐
-class Main {
+public class A2583 {
 
     static int m, n, k;
     static int[][] arr;

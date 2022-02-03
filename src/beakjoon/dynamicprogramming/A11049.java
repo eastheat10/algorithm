@@ -1,7 +1,9 @@
+package beakjoon.dfsandbfs;
+
 import java.util.*;
 import java.io.*;
 
-class Main {
+class A11049 {
 
     static int n;
     static int[][] matrix, dp;
