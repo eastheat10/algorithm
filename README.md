@@ -106,6 +106,7 @@
     * [[210708] 1018번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A1018.java) : [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
     * [[210714] 10974번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A10974.java) : [모든 순열](https://www.acmicpc.net/problem/10974)
     * [[211004] 2309번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A2309.java) : [일곱 난장이](https://www.acmicpc.net/problem/2309)
+    * [[220201] 17136번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/bruteforce/A17136.java) : [색종이 붙이기](https://www.acmicpc.net/problem/17136)
 
 ---
 
@@ -346,6 +347,7 @@
     * [[210724] 1753번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1753.java): [최단 경로](https://www.acmicpc.net/problem/1753)
     * [[210724] 1916번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1916.java): [최소비용 구하기](https://www.acmicpc.net/problem/1916)
     * [[210922] 1504번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1504.java): [특정한 최단경로](https://www.acmicpc.net/problem/1504)
+    * [[220201] 1854번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1854.java): [K번째 최단경로](https://www.acmicpc.net/problem/1854)
 
 ---
 
@@ -363,6 +365,12 @@
     * [[210911] 14676번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A14676.java): [영우는 사기꾼?](https://www.acmicpc.net/problem/14676)
     * [[210912] 2056번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A2056.java): [작업](https://www.acmicpc.net/problem/2056)
     * [[210912] 2056번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/topologicalsorting/A2056.java): [작업](https://www.acmicpc.net/problem/2056)
+
+---
+
+33. **세그먼트 트리**
+    * [[220207] 2042번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/segment_tree/A2042_구간합구하기.java): [구간 합 구하기](https://www.acmicpc.net/problem/2042)
+    * [[220207] 2242번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/segment_tree/A2242_사탕상자.java): [사탕상자](https://www.acmicpc.net/problem/2242)
 
 ---
 
