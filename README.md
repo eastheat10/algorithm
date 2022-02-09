@@ -348,6 +348,7 @@
     * [[210724] 1916번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1916.java): [최소비용 구하기](https://www.acmicpc.net/problem/1916)
     * [[210922] 1504번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1504.java): [특정한 최단경로](https://www.acmicpc.net/problem/1504)
     * [[220201] 1854번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A1854.java): [K번째 최단경로](https://www.acmicpc.net/problem/1854)
+    * [[220209] 5719번](https://github.com/eastheat10/algorithm/blob/master/src/beakjoon/shortestpath/A5719_거의최단경로.java): [거의 최단 경로](https://www.acmicpc.net/problem/5719)
 
 ---
 
