@@ -15,7 +15,8 @@ public class NAndM3 {
         if (depth == M + 1) {
             for (int i = 1; i <= M; i++) {
                 sb.append(arr[i]).append(" ");
-            }sb.append("\n");
+            }
+            sb.append("\n");
         } else {
             for (int i = arr[depth - 1] + 1; i <= N; i++) {
                 arr[depth] = i;
