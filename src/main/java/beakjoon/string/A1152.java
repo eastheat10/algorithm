@@ -19,7 +19,7 @@ public class A1152 {
 		String s = sc.nextLine().trim();
 
 		String[] a = s.split(" ");
-		if (s.isBlank())
+		if (s.isEmpty())
 			System.out.println(0);
 		else
 			System.out.println(a.length);
