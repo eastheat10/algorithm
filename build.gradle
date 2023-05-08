@@ -12,6 +12,7 @@ repositories {
 
 dependencies {
     testImplementation 'org.jetbrains.kotlin:kotlin-test'
+    testImplementation group: 'org.assertj', name: 'assertj-core', version: '3.24.2'
 }
 
 test {
