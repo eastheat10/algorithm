@@ -3,6 +3,11 @@ package programers.etc;
 import java.util.Queue;
 import java.util.LinkedList;
 
+/**
+ * 경주로 건설
+ *
+ * https://school.programmers.co.kr/learn/courses/30/lessons/67259
+ */
 public class Race {
     public int solution(int[][] board) {
         int n = board.length;
