@@ -92,6 +92,7 @@ public class MenuRenewal {
             Arrays.sort(arr);
             sortedOrders[i] = new String(arr);
         }
+
         return sortedOrders;
     }
 
