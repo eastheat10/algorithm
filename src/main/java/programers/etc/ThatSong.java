@@ -38,7 +38,6 @@ public class ThatSong {
     }
 
     private String convert(String m) {
-        System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@");
         int len = m.length();
         List<Character> list = new ArrayList<>();
 
